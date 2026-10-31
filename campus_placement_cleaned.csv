@@ -1,0 +1,1501 @@
+Student_ID,Gender,Specialization,CGPA,Aptitude_Score,Technical_Skill,Communication_Skill,Placement
+S0001,Female,Computer Science,6.22,58.0,61.0,80.0,No
+S0002,Male,Business Administration,7.5,69.0,54.0,48.0,Yes
+S0003,Male,Computer Science,7.52,62.0,59.0,66.0,No
+S0004,Female,Civil Engineering,6.42,50.0,38.0,69.0,No
+S0005,Female,Computer Science,6.95,67.0,62.0,83.0,Yes
+S0006,Male,Computer Science,5.91,45.0,77.0,51.0,No
+S0007,Male,Electronics,7.38,67.0,62.0,73.0,Yes
+S0008,Male,Mechanical,8.74,100.0,59.0,82.0,Yes
+S0009,Male,Mechanical,7.2,59.0,47.0,67.0,No
+S0010,Male,Information Technology,4.5,37.0,46.0,61.0,No
+S0011,Female,Computer Science,7.86,63.0,64.0,66.0,No
+S0012,Female,Civil Engineering,6.33,49.0,41.0,54.0,No
+S0013,Male,Computer Science,4.75,36.0,39.0,51.0,No
+S0014,Female,Computer Science,7.96,71.0,72.0,65.0,Yes
+S0015,Male,Civil Engineering,7.04,65.0,36.0,49.0,No
+S0016,Male,Electronics,7.38,84.0,80.0,59.0,Yes
+S0017,Female,Information Technology,7.64,80.0,68.0,72.0,Yes
+S0018,Female,Computer Science,7.38,71.0,64.0,52.0,No
+S0019,Female,Electronics,8.75,84.0,82.0,66.0,Yes
+S0020,Male,Business Administration,7.81,64.0,53.0,84.0,Yes
+S0021,Male,Electronics,5.77,50.0,38.0,56.0,No
+S0022,Male,Information Technology,5.42,40.0,55.0,55.0,No
+S0023,Male,Business Administration,7.44,69.0,52.0,63.0,Yes
+S0024,Female,Electronics,6.65,53.0,59.0,61.0,No
+S0025,Male,Information Technology,7.17,67.0,57.0,72.0,No
+S0026,Male,Electronics,6.54,70.0,60.0,53.0,No
+S0027,Female,Mechanical,6.38,51.0,51.0,73.0,No
+S0028,Male,Civil Engineering,6.32,64.0,52.0,68.0,No
+S0029,Male,Mechanical,7.69,75.0,64.0,72.0,Yes
+S0030,Male,Computer Science,7.69,67.0,72.0,67.0,No
+S0031,Male,Information Technology,6.73,66.0,65.0,82.0,No
+S0032,Male,Computer Science,7.66,71.0,76.0,75.0,No
+S0033,Female,Electronics,7.16,64.0,75.0,74.0,Yes
+S0034,Male,Computer Science,5.32,47.0,41.0,55.0,No
+S0035,Female,Electronics,7.39,64.0,68.0,80.0,Yes
+S0036,Male,Computer Science,6.98,68.0,79.0,93.0,Yes
+S0037,Male,Information Technology,7.56,74.0,77.0,63.0,Yes
+S0038,Female,Mechanical,7.19,69.0,50.0,55.0,No
+S0039,Female,Mechanical,7.43,67.0,50.0,82.0,No
+S0040,Male,Computer Science,7.05,66.0,65.0,70.0,Yes
+S0041,Male,Electronics,7.38,61.0,42.0,67.0,No
+S0042,Male,Business Administration,7.1,69.0,48.0,70.0,Yes
+S0043,Female,Computer Science,7.32,49.0,82.0,85.0,Yes
+S0044,Female,Information Technology,7.38,60.0,58.0,82.0,No
+S0045,Male,Electronics,6.8,62.0,68.0,100.0,Yes
+S0046,Female,Computer Science,6.5,70.0,72.0,66.0,No
+S0047,Male,Civil Engineering,7.22,58.0,53.0,82.0,Yes
+S0048,Female,Business Administration,7.38,68.0,53.0,66.0,Yes
+S0049,Male,Computer Science,6.49,62.0,56.0,62.0,No
+S0050,Male,Information Technology,6.55,42.0,56.0,70.0,No
+S0051,Female,Information Technology,5.96,46.0,87.0,60.0,No
+S0052,Male,Mechanical,5.13,33.0,61.0,62.0,No
+S0053,Male,Electronics,8.16,72.0,65.0,88.0,Yes
+S0054,Male,Information Technology,6.55,59.0,66.0,51.0,Yes
+S0055,Male,Computer Science,7.59,78.0,48.0,75.0,No
+S0056,Female,Electronics,6.44,67.0,63.0,58.0,No
+S0057,Male,Business Administration,8.14,74.0,49.0,84.0,Yes
+S0058,Male,Computer Science,7.09,69.0,74.0,52.0,No
+S0059,Male,Business Administration,7.96,74.0,51.0,38.0,No
+S0060,Male,Computer Science,7.11,68.0,84.0,52.0,Yes
+S0061,Female,Mechanical,9.14,86.0,67.0,57.0,Yes
+S0062,Male,Computer Science,4.91,33.0,50.0,53.0,No
+S0063,Male,Electronics,5.95,55.0,71.0,48.0,Yes
+S0064,Female,Computer Science,7.1,64.0,86.0,71.0,Yes
+S0065,Male,Computer Science,6.71,57.0,66.0,50.0,No
+S0066,Male,Information Technology,7.82,74.0,79.0,71.0,Yes
+S0067,Male,Business Administration,6.69,57.0,65.0,54.0,No
+S0068,Female,Electronics,6.64,72.0,53.0,66.0,No
+S0069,Male,Computer Science,7.38,72.0,71.0,67.0,Yes
+S0070,Male,Computer Science,7.66,74.0,100.0,60.0,No
+S0071,Male,Business Administration,6.58,62.0,50.0,67.0,No
+S0072,Male,Computer Science,7.15,70.0,69.0,46.0,No
+S0073,Male,Information Technology,7.44,70.0,65.0,71.0,No
+S0074,Male,Information Technology,7.84,80.0,93.0,59.0,Yes
+S0075,Female,Business Administration,6.97,59.0,52.0,63.0,No
+S0076,Male,Information Technology,6.14,54.0,69.0,64.0,No
+S0077,Female,Electronics,7.76,78.0,52.0,78.0,Yes
+S0078,Male,Computer Science,6.65,65.0,79.0,62.0,No
+S0079,Female,Computer Science,6.14,53.0,63.0,59.0,No
+S0080,Male,Information Technology,5.64,67.0,54.0,52.0,No
+S0081,Female,Computer Science,7.93,66.0,80.0,77.0,Yes
+S0082,Male,Business Administration,6.8,56.0,65.0,55.0,No
+S0083,Male,Computer Science,6.61,62.0,78.0,40.0,No
+S0084,Female,Computer Science,7.42,65.0,72.0,89.0,Yes
+S0085,Male,Mechanical,8.31,76.0,77.0,61.0,Yes
+S0086,Male,Information Technology,7.42,60.0,61.0,60.0,Yes
+S0087,Male,Business Administration,7.38,80.0,56.0,74.0,No
+S0088,Female,Information Technology,7.51,75.0,59.0,71.0,Yes
+S0089,Male,Information Technology,6.29,45.0,79.0,64.0,No
+S0090,Male,Electronics,8.15,70.0,63.0,68.0,Yes
+S0091,Male,Electronics,7.44,66.0,53.0,63.0,No
+S0092,Male,Information Technology,7.87,64.0,65.0,53.0,Yes
+S0093,Male,Mechanical,7.77,71.0,71.0,92.0,Yes
+S0094,Male,Information Technology,7.78,78.0,65.0,86.0,Yes
+S0095,Female,Electronics,7.44,62.0,63.0,65.0,No
+S0096,Male,Information Technology,7.84,81.0,75.0,67.0,Yes
+S0097,Female,Mechanical,8.35,84.0,83.0,71.0,Yes
+S0098,Female,Computer Science,9.26,73.0,71.0,52.0,Yes
+S0099,Male,Mechanical,6.73,58.0,82.0,89.0,Yes
+S0100,Female,Electronics,6.58,52.0,68.0,50.0,No
+S0101,Male,Civil Engineering,8.47,67.0,81.0,85.0,Yes
+S0102,Male,Mechanical,7.47,53.0,47.0,64.0,Yes
+S0103,Male,Information Technology,6.37,44.0,66.0,66.0,No
+S0104,Male,Computer Science,7.33,59.0,61.0,65.0,Yes
+S0105,Female,Information Technology,7.0,55.0,69.0,77.0,Yes
+S0106,Male,Business Administration,7.3,53.0,41.0,55.0,Yes
+S0107,Male,Electronics,7.63,69.0,74.0,68.0,Yes
+S0108,Female,Information Technology,8.02,76.0,63.0,75.0,Yes
+S0109,Male,Mechanical,6.7,65.0,70.0,61.0,No
+S0110,Male,Business Administration,9.35,70.0,56.0,74.0,Yes
+S0111,Male,Information Technology,8.51,66.0,73.0,45.0,Yes
+S0112,Male,Information Technology,7.28,69.0,80.0,73.0,Yes
+S0113,Female,Information Technology,8.09,73.0,74.0,41.0,Yes
+S0114,Male,Information Technology,9.31,85.0,83.0,87.0,Yes
+S0115,Female,Mechanical,8.35,80.0,79.0,50.0,No
+S0116,Female,Mechanical,7.04,46.0,53.0,73.0,No
+S0117,Female,Information Technology,7.37,58.0,74.0,38.0,No
+S0118,Female,Information Technology,6.72,74.0,48.0,54.0,No
+S0119,Male,Mechanical,5.88,45.0,54.0,75.0,No
+S0120,Male,Computer Science,7.76,78.0,85.0,79.0,Yes
+S0121,Female,Mechanical,7.23,64.0,53.0,52.0,No
+S0122,Female,Computer Science,5.24,41.0,41.0,76.0,No
+S0123,Female,Information Technology,8.55,82.0,98.0,66.0,Yes
+S0124,Male,Computer Science,7.89,77.0,58.0,71.0,Yes
+S0125,Male,Business Administration,7.45,67.0,38.0,67.0,No
+S0126,Female,Civil Engineering,7.18,48.0,52.0,58.0,No
+S0127,Female,Information Technology,7.38,31.0,62.0,74.0,No
+S0128,Male,Information Technology,6.77,59.0,80.0,66.0,No
+S0129,Male,Computer Science,8.46,88.0,81.0,90.0,Yes
+S0130,Male,Electronics,7.5,63.0,66.0,68.0,Yes
+S0131,Male,Computer Science,6.89,58.0,73.0,78.0,No
+S0132,Female,Electronics,7.29,62.0,72.0,90.0,No
+S0133,Male,Information Technology,6.65,53.0,72.0,67.0,No
+S0134,Male,Electronics,6.95,70.0,64.0,62.0,Yes
+S0135,Male,Business Administration,8.56,87.0,69.0,84.0,Yes
+S0136,Male,Business Administration,6.05,50.0,50.0,73.0,No
+S0137,Female,Civil Engineering,6.01,52.0,36.0,62.0,No
+S0138,Female,Mechanical,8.15,84.0,67.0,79.0,Yes
+S0139,Male,Information Technology,8.58,89.0,89.0,66.0,Yes
+S0140,Male,Civil Engineering,8.4,73.0,49.0,53.0,No
+S0141,Male,Electronics,5.79,53.0,40.0,75.0,No
+S0142,Male,Mechanical,8.32,68.0,61.0,76.0,Yes
+S0143,Male,Electronics,7.61,78.0,63.0,63.0,No
+S0144,Male,Computer Science,5.66,58.0,72.0,43.0,No
+S0145,Female,Electronics,7.1,53.0,62.0,81.0,No
+S0146,Female,Information Technology,5.72,42.0,55.0,60.0,Yes
+S0147,Male,Civil Engineering,8.3,77.0,53.0,66.0,Yes
+S0148,Female,Computer Science,8.34,69.0,58.0,64.0,Yes
+S0149,Male,Information Technology,9.07,78.0,68.0,80.0,Yes
+S0150,Female,Information Technology,8.53,67.0,74.0,85.0,Yes
+S0151,Male,Electronics,8.0,79.0,81.0,72.0,Yes
+S0152,Male,Business Administration,7.15,65.0,70.0,68.0,No
+S0153,Male,Business Administration,7.4,70.0,48.0,68.0,Yes
+S0154,Female,Information Technology,6.42,48.0,55.0,66.0,Yes
+S0155,Female,Information Technology,5.74,67.0,63.0,69.0,No
+S0156,Female,Business Administration,4.81,38.0,35.0,41.0,No
+S0157,Female,Business Administration,6.76,46.0,63.0,81.0,No
+S0158,Male,Computer Science,7.26,67.0,79.0,56.0,Yes
+S0159,Female,Computer Science,7.36,63.0,67.0,61.0,Yes
+S0160,Female,Electronics,8.45,99.0,88.0,58.0,No
+S0161,Female,Computer Science,7.38,70.0,65.0,67.0,No
+S0162,Female,Computer Science,7.77,65.0,75.0,83.0,Yes
+S0163,Male,Civil Engineering,6.48,70.0,33.0,70.0,No
+S0164,Male,Computer Science,8.57,89.0,85.0,74.0,Yes
+S0165,Female,Electronics,6.56,75.0,43.0,50.0,Yes
+S0166,Male,Information Technology,7.14,55.0,70.0,77.0,No
+S0167,Male,Computer Science,7.73,74.0,59.0,83.0,Yes
+S0168,Male,Computer Science,8.83,88.0,96.0,75.0,Yes
+S0169,Female,Information Technology,7.97,92.0,82.0,59.0,Yes
+S0170,Female,Computer Science,7.19,69.0,60.0,70.0,No
+S0171,Male,Electronics,7.18,60.0,69.0,76.0,No
+S0172,Female,Business Administration,9.78,97.0,66.0,80.0,Yes
+S0173,Female,Business Administration,8.0,70.0,29.0,76.0,No
+S0174,Male,Electronics,8.0,73.0,72.0,73.0,Yes
+S0175,Female,Information Technology,7.92,74.0,86.0,83.0,Yes
+S0176,Female,Business Administration,8.77,82.0,62.0,65.0,Yes
+S0177,Female,Electronics,7.92,72.0,80.0,73.0,Yes
+S0178,Male,Mechanical,7.4,69.0,68.0,76.0,Yes
+S0179,Male,Mechanical,8.56,83.0,83.0,78.0,Yes
+S0180,Male,Information Technology,8.23,73.0,81.0,56.0,Yes
+S0181,Female,Computer Science,5.98,49.0,69.0,35.0,No
+S0182,Male,Computer Science,6.72,58.0,60.0,76.0,Yes
+S0183,Female,Computer Science,8.17,71.0,77.0,99.0,Yes
+S0184,Male,Civil Engineering,7.51,71.0,70.0,81.0,Yes
+S0185,Male,Business Administration,6.11,67.0,48.0,74.0,No
+S0186,Female,Information Technology,7.85,66.0,68.0,49.0,Yes
+S0187,Male,Computer Science,6.55,53.0,57.0,77.0,No
+S0188,Male,Computer Science,8.2,73.0,87.0,81.0,Yes
+S0189,Male,Business Administration,7.35,70.0,65.0,65.0,No
+S0190,Male,Business Administration,6.63,46.0,37.0,94.0,No
+S0191,Female,Information Technology,6.85,62.0,55.0,50.0,No
+S0192,Male,Electronics,4.5,25.0,59.0,66.0,No
+S0193,Female,Information Technology,7.04,59.0,65.0,64.0,No
+S0194,Female,Information Technology,7.38,78.0,87.0,81.0,Yes
+S0195,Female,Mechanical,7.63,58.0,70.0,88.0,Yes
+S0196,Female,Information Technology,7.96,87.0,94.0,66.0,Yes
+S0197,Male,Business Administration,6.92,76.0,55.0,48.0,Yes
+S0198,Female,Information Technology,6.2,67.0,61.0,83.0,No
+S0199,Male,Mechanical,7.84,68.0,51.0,54.0,No
+S0200,Male,Electronics,6.12,67.0,57.0,82.0,No
+S0201,Female,Civil Engineering,8.77,90.0,78.0,61.0,Yes
+S0202,Female,Information Technology,7.11,75.0,71.0,54.0,No
+S0203,Female,Mechanical,7.7,74.0,70.0,66.0,No
+S0204,Female,Computer Science,7.14,68.0,75.0,76.0,Yes
+S0205,Female,Computer Science,7.35,70.0,85.0,67.0,No
+S0206,Male,Electronics,5.13,44.0,32.0,59.0,No
+S0207,Female,Computer Science,7.38,84.0,62.0,92.0,Yes
+S0208,Male,Business Administration,5.78,36.0,54.0,67.0,No
+S0209,Male,Computer Science,8.28,77.0,66.0,80.0,Yes
+S0210,Female,Computer Science,7.35,70.0,77.0,86.0,Yes
+S0211,Female,Information Technology,8.98,88.0,73.0,71.0,Yes
+S0212,Female,Information Technology,6.72,58.0,64.0,55.0,No
+S0213,Male,Computer Science,8.09,72.0,86.0,68.0,Yes
+S0214,Male,Information Technology,6.36,67.0,65.0,81.0,Yes
+S0215,Female,Civil Engineering,6.24,55.0,53.0,77.0,No
+S0216,Female,Information Technology,8.13,83.0,85.0,78.0,Yes
+S0217,Male,Computer Science,6.77,72.0,58.0,84.0,Yes
+S0218,Female,Computer Science,6.24,47.0,44.0,85.0,No
+S0219,Female,Computer Science,8.25,86.0,81.0,67.0,Yes
+S0220,Female,Information Technology,5.77,55.0,70.0,53.0,No
+S0221,Female,Information Technology,9.13,67.0,67.0,75.0,Yes
+S0222,Female,Computer Science,7.03,59.0,64.0,69.0,Yes
+S0223,Female,Business Administration,8.71,78.0,76.0,56.0,No
+S0224,Male,Business Administration,7.33,50.0,63.0,59.0,Yes
+S0225,Male,Information Technology,5.88,44.0,64.0,57.0,No
+S0226,Male,Mechanical,6.97,67.0,66.0,53.0,No
+S0227,Female,Electronics,6.68,41.0,49.0,55.0,No
+S0228,Female,Business Administration,7.43,75.0,53.0,68.0,Yes
+S0229,Female,Information Technology,9.17,83.0,87.0,65.0,Yes
+S0230,Female,Mechanical,7.96,78.0,64.0,69.0,Yes
+S0231,Male,Mechanical,8.15,67.0,54.0,57.0,Yes
+S0232,Male,Civil Engineering,6.03,58.0,39.0,41.0,No
+S0233,Male,Business Administration,7.46,64.0,63.0,80.0,Yes
+S0234,Female,Civil Engineering,7.01,69.0,66.0,37.0,No
+S0235,Female,Computer Science,8.4,76.0,79.0,56.0,Yes
+S0236,Male,Civil Engineering,8.56,81.0,79.0,69.0,Yes
+S0237,Male,Information Technology,7.92,69.0,63.0,71.0,No
+S0238,Female,Electronics,5.96,40.0,63.0,65.0,No
+S0239,Male,Computer Science,7.13,64.0,75.0,52.0,Yes
+S0240,Female,Information Technology,5.55,48.0,75.0,51.0,No
+S0241,Female,Computer Science,6.44,62.0,62.0,75.0,No
+S0242,Female,Computer Science,6.49,55.0,66.0,46.0,No
+S0243,Male,Information Technology,7.67,66.0,77.0,67.0,Yes
+S0244,Male,Civil Engineering,6.68,78.0,50.0,86.0,Yes
+S0245,Male,Electronics,7.31,61.0,55.0,57.0,No
+S0246,Male,Computer Science,8.15,81.0,81.0,68.0,Yes
+S0247,Male,Computer Science,6.26,56.0,77.0,64.0,No
+S0248,Female,Electronics,8.3,78.0,53.0,73.0,Yes
+S0249,Male,Civil Engineering,7.62,83.0,52.0,55.0,No
+S0250,Male,Mechanical,8.9,66.0,64.0,63.0,Yes
+S0251,Female,Information Technology,9.43,99.0,65.0,70.0,Yes
+S0252,Male,Business Administration,9.05,67.0,52.0,84.0,Yes
+S0253,Male,Electronics,10.0,67.0,81.0,88.0,Yes
+S0254,Male,Computer Science,6.24,62.0,63.0,67.0,No
+S0255,Female,Electronics,7.18,70.0,67.0,64.0,Yes
+S0256,Male,Electronics,8.77,84.0,74.0,79.0,Yes
+S0257,Male,Mechanical,7.6,68.0,77.0,100.0,Yes
+S0258,Female,Business Administration,7.23,72.0,51.0,66.0,Yes
+S0259,Female,Information Technology,6.79,62.0,65.0,83.0,No
+S0260,Female,Computer Science,7.82,66.0,85.0,75.0,Yes
+S0261,Male,Information Technology,9.74,94.0,88.0,70.0,Yes
+S0262,Female,Electronics,7.63,64.0,62.0,60.0,Yes
+S0263,Female,Computer Science,7.79,87.0,77.0,67.0,Yes
+S0264,Female,Electronics,7.38,20.0,50.0,67.0,No
+S0265,Male,Computer Science,8.13,90.0,89.0,64.0,Yes
+S0266,Female,Computer Science,9.85,81.0,95.0,62.0,Yes
+S0267,Female,Electronics,7.38,72.0,68.0,73.0,No
+S0268,Male,Civil Engineering,7.3,58.0,61.0,55.0,No
+S0269,Female,Electronics,8.98,86.0,65.0,62.0,Yes
+S0270,Female,Business Administration,6.82,72.0,69.0,74.0,No
+S0271,Female,Electronics,7.38,68.0,64.0,76.0,Yes
+S0272,Male,Mechanical,7.1,44.0,58.0,67.0,No
+S0273,Male,Computer Science,7.97,71.0,53.0,63.0,No
+S0274,Male,Computer Science,7.8,80.0,79.0,60.0,Yes
+S0275,Female,Business Administration,7.86,76.0,68.0,57.0,Yes
+S0276,Male,Electronics,8.24,54.0,68.0,81.0,No
+S0277,Female,Information Technology,10.0,84.0,76.0,57.0,Yes
+S0278,Male,Computer Science,6.15,36.0,62.0,58.0,No
+S0279,Male,Business Administration,5.97,53.0,40.0,65.0,No
+S0280,Male,Computer Science,7.1,61.0,82.0,75.0,Yes
+S0281,Male,Computer Science,6.38,51.0,65.0,63.0,No
+S0282,Male,Information Technology,6.06,63.0,62.0,64.0,No
+S0283,Male,Computer Science,5.62,67.0,69.0,63.0,No
+S0284,Male,Computer Science,7.07,57.0,63.0,43.0,No
+S0285,Female,Electronics,6.72,59.0,56.0,66.0,No
+S0286,Male,Civil Engineering,7.78,72.0,55.0,55.0,Yes
+S0287,Male,Computer Science,7.17,64.0,67.0,70.0,No
+S0288,Male,Electronics,8.52,76.0,73.0,71.0,No
+S0289,Male,Electronics,8.51,71.0,68.0,84.0,Yes
+S0290,Female,Business Administration,7.65,65.0,70.0,77.0,Yes
+S0291,Female,Electronics,7.63,59.0,80.0,60.0,No
+S0292,Male,Computer Science,7.94,63.0,62.0,84.0,Yes
+S0293,Female,Information Technology,9.22,92.0,85.0,50.0,Yes
+S0294,Male,Information Technology,7.3,82.0,87.0,74.0,Yes
+S0295,Female,Information Technology,8.29,80.0,69.0,70.0,Yes
+S0296,Female,Electronics,7.96,60.0,81.0,66.0,Yes
+S0297,Male,Information Technology,7.76,63.0,64.0,48.0,No
+S0298,Female,Electronics,7.93,70.0,78.0,63.0,Yes
+S0299,Male,Computer Science,8.06,78.0,68.0,53.0,Yes
+S0300,Female,Civil Engineering,6.84,64.0,65.0,66.0,No
+S0301,Female,Civil Engineering,5.63,55.0,39.0,38.0,No
+S0302,Female,Electronics,7.31,69.0,75.0,67.0,Yes
+S0303,Female,Business Administration,9.06,84.0,66.0,63.0,Yes
+S0304,Male,Computer Science,5.8,46.0,64.0,35.0,No
+S0305,Female,Computer Science,6.13,56.0,65.0,41.0,No
+S0306,Female,Information Technology,8.0,67.0,83.0,64.0,Yes
+S0307,Male,Electronics,6.7,70.0,48.0,67.0,No
+S0308,Male,Information Technology,7.38,67.0,54.0,75.0,No
+S0309,Male,Information Technology,8.75,97.0,97.0,81.0,Yes
+S0310,Male,Information Technology,7.2,72.0,73.0,66.0,Yes
+S0311,Male,Computer Science,8.07,80.0,76.0,89.0,Yes
+S0312,Male,Electronics,6.02,67.0,51.0,77.0,No
+S0313,Male,Business Administration,6.48,54.0,55.0,77.0,No
+S0314,Male,Mechanical,8.99,83.0,69.0,91.0,Yes
+S0315,Male,Electronics,7.22,69.0,64.0,84.0,Yes
+S0316,Male,Computer Science,7.69,61.0,65.0,63.0,Yes
+S0317,Female,Computer Science,5.25,39.0,52.0,44.0,No
+S0318,Male,Computer Science,8.61,90.0,61.0,86.0,Yes
+S0319,Male,Electronics,8.01,87.0,93.0,70.0,Yes
+S0320,Male,Computer Science,7.98,75.0,65.0,69.0,Yes
+S0321,Female,Business Administration,6.34,65.0,38.0,53.0,No
+S0322,Male,Electronics,8.38,90.0,52.0,78.0,Yes
+S0323,Male,Electronics,6.78,67.0,65.0,70.0,No
+S0324,Male,Electronics,6.27,54.0,57.0,67.0,No
+S0325,Female,Computer Science,7.5,62.0,78.0,68.0,No
+S0326,Male,Computer Science,7.38,59.0,51.0,54.0,No
+S0327,Male,Information Technology,8.52,78.0,92.0,76.0,Yes
+S0328,Female,Business Administration,8.51,69.0,55.0,77.0,No
+S0329,Female,Computer Science,7.7,70.0,62.0,65.0,Yes
+S0330,Male,Computer Science,6.22,47.0,70.0,57.0,No
+S0331,Male,Mechanical,8.09,67.0,66.0,62.0,Yes
+S0332,Male,Business Administration,6.06,64.0,60.0,45.0,No
+S0333,Female,Mechanical,7.54,74.0,70.0,86.0,No
+S0334,Male,Civil Engineering,6.59,65.0,54.0,64.0,Yes
+S0335,Female,Civil Engineering,7.1,54.0,63.0,77.0,No
+S0336,Female,Civil Engineering,8.43,70.0,53.0,71.0,Yes
+S0337,Male,Electronics,7.45,71.0,49.0,53.0,No
+S0338,Male,Information Technology,8.17,73.0,95.0,75.0,Yes
+S0339,Female,Information Technology,6.54,50.0,51.0,52.0,No
+S0340,Male,Electronics,6.64,55.0,84.0,44.0,No
+S0341,Female,Electronics,7.94,75.0,80.0,70.0,Yes
+S0342,Female,Computer Science,7.45,81.0,65.0,83.0,Yes
+S0343,Male,Mechanical,9.15,79.0,51.0,65.0,Yes
+S0344,Male,Information Technology,6.17,52.0,63.0,62.0,No
+S0345,Male,Computer Science,5.03,24.0,47.0,75.0,No
+S0346,Female,Electronics,7.65,72.0,54.0,70.0,Yes
+S0347,Male,Information Technology,7.77,74.0,71.0,66.0,No
+S0348,Male,Computer Science,5.76,47.0,50.0,57.0,No
+S0349,Male,Mechanical,8.11,75.0,47.0,64.0,Yes
+S0350,Female,Computer Science,7.87,69.0,61.0,68.0,Yes
+S0351,Male,Electronics,8.39,85.0,69.0,63.0,Yes
+S0352,Male,Business Administration,7.41,80.0,51.0,52.0,Yes
+S0353,Male,Computer Science,8.22,70.0,61.0,86.0,Yes
+S0354,Female,Information Technology,6.12,55.0,45.0,53.0,No
+S0355,Female,Computer Science,8.12,77.0,85.0,70.0,Yes
+S0356,Male,Computer Science,6.96,67.0,84.0,52.0,Yes
+S0357,Male,Computer Science,7.48,74.0,68.0,67.0,Yes
+S0358,Male,Mechanical,7.72,70.0,73.0,58.0,Yes
+S0359,Male,Electronics,6.96,69.0,57.0,79.0,Yes
+S0360,Male,Mechanical,8.34,76.0,87.0,63.0,Yes
+S0361,Female,Electronics,6.25,63.0,53.0,78.0,No
+S0362,Male,Computer Science,7.93,70.0,86.0,66.0,Yes
+S0363,Male,Information Technology,8.02,81.0,68.0,72.0,No
+S0364,Female,Civil Engineering,7.76,77.0,66.0,50.0,No
+S0365,Male,Business Administration,6.53,57.0,51.0,81.0,No
+S0366,Female,Computer Science,7.88,79.0,69.0,82.0,Yes
+S0367,Female,Computer Science,7.59,74.0,73.0,66.0,Yes
+S0368,Female,Computer Science,5.66,41.0,44.0,66.0,No
+S0369,Female,Information Technology,6.55,61.0,64.0,53.0,Yes
+S0370,Male,Computer Science,6.33,47.0,72.0,74.0,No
+S0371,Female,Business Administration,7.66,61.0,50.0,65.0,No
+S0372,Male,Electronics,6.82,59.0,72.0,46.0,No
+S0373,Male,Computer Science,7.72,69.0,57.0,66.0,Yes
+S0374,Male,Electronics,7.74,72.0,73.0,53.0,Yes
+S0375,Female,Mechanical,7.35,69.0,64.0,63.0,No
+S0376,Male,Computer Science,7.77,66.0,79.0,67.0,Yes
+S0377,Female,Business Administration,8.36,90.0,79.0,77.0,Yes
+S0378,Male,Information Technology,7.36,66.0,71.0,49.0,Yes
+S0379,Male,Electronics,8.13,73.0,72.0,73.0,Yes
+S0380,Female,Mechanical,7.54,75.0,60.0,66.0,Yes
+S0381,Female,Electronics,6.9,69.0,79.0,71.0,Yes
+S0382,Female,Information Technology,6.39,65.0,50.0,73.0,Yes
+S0383,Female,Mechanical,8.71,73.0,66.0,65.0,Yes
+S0384,Female,Electronics,7.37,69.0,62.0,71.0,No
+S0385,Male,Civil Engineering,6.28,41.0,50.0,41.0,No
+S0386,Male,Information Technology,8.84,85.0,67.0,49.0,Yes
+S0387,Male,Business Administration,6.58,68.0,50.0,76.0,No
+S0388,Female,Electronics,7.2,69.0,65.0,66.0,Yes
+S0389,Male,Business Administration,7.4,73.0,65.0,74.0,Yes
+S0390,Male,Information Technology,7.07,62.0,62.0,78.0,No
+S0391,Male,Civil Engineering,6.39,57.0,68.0,47.0,No
+S0392,Female,Civil Engineering,7.38,68.0,53.0,66.0,No
+S0393,Male,Computer Science,8.24,71.0,94.0,60.0,Yes
+S0394,Female,Electronics,6.63,60.0,72.0,66.0,No
+S0395,Male,Computer Science,7.06,56.0,67.0,70.0,Yes
+S0396,Male,Computer Science,7.84,71.0,76.0,69.0,Yes
+S0397,Male,Computer Science,8.63,80.0,82.0,62.0,Yes
+S0398,Male,Computer Science,7.8,76.0,91.0,86.0,Yes
+S0399,Male,Civil Engineering,7.79,71.0,56.0,66.0,Yes
+S0400,Female,Business Administration,7.15,57.0,65.0,71.0,Yes
+S0401,Male,Computer Science,7.37,68.0,67.0,55.0,Yes
+S0402,Female,Civil Engineering,7.49,61.0,42.0,67.0,No
+S0403,Female,Computer Science,6.6,52.0,50.0,53.0,No
+S0404,Female,Mechanical,7.34,73.0,66.0,80.0,No
+S0405,Female,Business Administration,6.48,70.0,54.0,53.0,No
+S0406,Female,Business Administration,8.08,79.0,66.0,49.0,Yes
+S0407,Male,Business Administration,7.55,63.0,78.0,62.0,Yes
+S0408,Male,Mechanical,8.74,82.0,68.0,64.0,Yes
+S0409,Female,Information Technology,6.39,56.0,59.0,54.0,No
+S0410,Male,Computer Science,7.33,56.0,56.0,63.0,No
+S0411,Male,Computer Science,5.62,45.0,71.0,54.0,No
+S0412,Male,Computer Science,6.81,65.0,65.0,58.0,Yes
+S0413,Female,Computer Science,7.22,51.0,32.0,73.0,Yes
+S0414,Male,Civil Engineering,6.26,68.0,54.0,49.0,Yes
+S0415,Female,Computer Science,8.06,81.0,80.0,51.0,Yes
+S0416,Female,Electronics,7.92,77.0,66.0,63.0,Yes
+S0417,Male,Mechanical,7.63,85.0,79.0,56.0,Yes
+S0418,Female,Mechanical,8.49,84.0,64.0,59.0,No
+S0419,Male,Information Technology,6.34,66.0,56.0,81.0,Yes
+S0420,Male,Computer Science,6.42,67.0,45.0,64.0,No
+S0421,Female,Computer Science,7.88,66.0,63.0,61.0,Yes
+S0422,Female,Electronics,8.78,63.0,65.0,61.0,Yes
+S0423,Male,Information Technology,6.33,66.0,56.0,65.0,No
+S0424,Female,Mechanical,9.51,81.0,68.0,93.0,Yes
+S0425,Female,Computer Science,6.11,58.0,50.0,57.0,No
+S0426,Male,Business Administration,7.5,71.0,65.0,66.0,Yes
+S0427,Male,Business Administration,8.21,71.0,56.0,77.0,Yes
+S0428,Male,Information Technology,6.82,67.0,69.0,72.0,No
+S0429,Female,Civil Engineering,8.12,76.0,77.0,61.0,Yes
+S0430,Male,Computer Science,7.84,64.0,72.0,75.0,No
+S0431,Female,Information Technology,8.72,80.0,86.0,65.0,Yes
+S0432,Female,Mechanical,7.64,89.0,55.0,54.0,Yes
+S0433,Male,Electronics,7.42,59.0,60.0,61.0,No
+S0434,Female,Computer Science,8.11,65.0,70.0,78.0,Yes
+S0435,Male,Mechanical,7.34,69.0,69.0,66.0,Yes
+S0436,Female,Business Administration,7.23,46.0,64.0,47.0,No
+S0437,Female,Computer Science,6.77,69.0,55.0,86.0,Yes
+S0438,Male,Civil Engineering,7.06,64.0,57.0,76.0,Yes
+S0439,Male,Business Administration,9.14,83.0,76.0,72.0,Yes
+S0440,Male,Information Technology,6.45,64.0,65.0,61.0,No
+S0441,Female,Information Technology,8.36,86.0,70.0,70.0,Yes
+S0442,Male,Mechanical,6.9,65.0,71.0,48.0,No
+S0443,Female,Information Technology,8.41,75.0,72.0,69.0,Yes
+S0444,Female,Business Administration,6.22,54.0,51.0,66.0,No
+S0445,Male,Computer Science,8.03,70.0,79.0,78.0,Yes
+S0446,Female,Civil Engineering,7.38,71.0,49.0,61.0,No
+S0447,Male,Business Administration,8.03,78.0,65.0,54.0,No
+S0448,Female,Computer Science,5.69,48.0,49.0,66.0,No
+S0449,Female,Electronics,6.4,66.0,65.0,56.0,No
+S0450,Male,Information Technology,7.6,75.0,73.0,74.0,Yes
+S0451,Male,Computer Science,8.28,81.0,65.0,74.0,Yes
+S0452,Female,Computer Science,6.64,56.0,56.0,80.0,No
+S0453,Female,Computer Science,6.33,57.0,60.0,45.0,No
+S0454,Male,Business Administration,7.04,56.0,56.0,66.0,No
+S0455,Male,Computer Science,6.39,51.0,76.0,51.0,No
+S0456,Female,Business Administration,5.66,30.0,29.0,64.0,No
+S0457,Male,Electronics,7.38,59.0,56.0,39.0,No
+S0458,Male,Mechanical,7.75,57.0,63.0,73.0,Yes
+S0459,Male,Electronics,7.38,74.0,71.0,68.0,Yes
+S0460,Female,Mechanical,7.87,65.0,51.0,68.0,No
+S0461,Male,Electronics,7.38,85.0,92.0,69.0,Yes
+S0462,Male,Computer Science,7.85,70.0,82.0,70.0,Yes
+S0463,Male,Business Administration,6.18,57.0,40.0,66.0,No
+S0464,Male,Civil Engineering,6.34,38.0,53.0,52.0,No
+S0465,Female,Information Technology,5.41,52.0,56.0,52.0,No
+S0466,Female,Information Technology,7.56,78.0,73.0,79.0,No
+S0467,Male,Information Technology,6.62,77.0,72.0,59.0,Yes
+S0468,Female,Business Administration,5.37,53.0,58.0,34.0,No
+S0469,Female,Information Technology,7.92,56.0,72.0,47.0,No
+S0470,Male,Mechanical,7.86,69.0,74.0,59.0,Yes
+S0471,Male,Computer Science,6.78,61.0,73.0,76.0,Yes
+S0472,Male,Information Technology,8.5,82.0,72.0,51.0,Yes
+S0473,Female,Civil Engineering,6.25,72.0,71.0,59.0,No
+S0474,Male,Electronics,8.22,89.0,85.0,70.0,Yes
+S0475,Female,Computer Science,7.38,66.0,74.0,78.0,Yes
+S0476,Male,Business Administration,8.17,65.0,65.0,66.0,Yes
+S0477,Female,Computer Science,8.23,72.0,64.0,94.0,Yes
+S0478,Female,Electronics,6.97,57.0,62.0,54.0,No
+S0479,Male,Civil Engineering,6.38,54.0,52.0,54.0,No
+S0480,Male,Business Administration,8.76,100.0,79.0,66.0,Yes
+S0481,Female,Computer Science,6.34,39.0,54.0,89.0,No
+S0482,Male,Information Technology,7.07,61.0,71.0,74.0,Yes
+S0483,Female,Mechanical,6.81,56.0,49.0,61.0,No
+S0484,Female,Electronics,7.02,64.0,56.0,50.0,No
+S0485,Male,Electronics,7.18,65.0,58.0,79.0,No
+S0486,Male,Information Technology,7.34,67.0,75.0,44.0,Yes
+S0487,Male,Civil Engineering,8.33,87.0,65.0,66.0,Yes
+S0488,Male,Electronics,7.72,83.0,67.0,71.0,Yes
+S0489,Female,Computer Science,6.41,52.0,65.0,82.0,No
+S0490,Female,Information Technology,8.86,65.0,71.0,69.0,Yes
+S0491,Female,Mechanical,8.63,100.0,67.0,66.0,Yes
+S0492,Male,Business Administration,6.65,54.0,51.0,57.0,No
+S0493,Female,Civil Engineering,7.66,80.0,57.0,77.0,Yes
+S0494,Male,Business Administration,7.88,75.0,47.0,61.0,Yes
+S0495,Male,Mechanical,6.53,60.0,67.0,86.0,Yes
+S0496,Female,Electronics,7.26,74.0,70.0,60.0,No
+S0497,Female,Business Administration,7.18,68.0,53.0,87.0,Yes
+S0498,Male,Mechanical,7.05,70.0,57.0,56.0,Yes
+S0499,Male,Civil Engineering,8.14,76.0,60.0,82.0,Yes
+S0500,Male,Information Technology,5.78,47.0,53.0,68.0,No
+S0501,Male,Business Administration,8.04,67.0,81.0,63.0,Yes
+S0502,Female,Information Technology,6.3,46.0,65.0,53.0,No
+S0503,Male,Computer Science,7.23,65.0,68.0,60.0,Yes
+S0504,Female,Information Technology,6.05,43.0,72.0,66.0,No
+S0505,Male,Civil Engineering,7.85,69.0,53.0,66.0,No
+S0506,Female,Information Technology,7.75,65.0,82.0,58.0,Yes
+S0507,Female,Electronics,6.73,64.0,56.0,57.0,No
+S0508,Male,Electronics,5.88,60.0,64.0,56.0,No
+S0509,Female,Electronics,7.93,81.0,68.0,53.0,Yes
+S0510,Female,Civil Engineering,7.09,65.0,57.0,44.0,No
+S0511,Female,Information Technology,9.21,75.0,81.0,44.0,Yes
+S0512,Male,Civil Engineering,6.65,67.0,49.0,72.0,No
+S0513,Female,Information Technology,7.18,59.0,68.0,75.0,No
+S0514,Male,Business Administration,7.0,64.0,65.0,66.0,Yes
+S0515,Male,Information Technology,7.38,64.0,63.0,44.0,No
+S0516,Female,Computer Science,8.3,71.0,65.0,67.0,Yes
+S0517,Male,Information Technology,8.78,95.0,64.0,65.0,Yes
+S0518,Male,Electronics,7.62,67.0,55.0,62.0,No
+S0519,Female,Computer Science,6.74,60.0,54.0,57.0,No
+S0520,Male,Mechanical,8.3,87.0,47.0,81.0,Yes
+S0521,Male,Computer Science,6.99,66.0,74.0,59.0,No
+S0522,Male,Computer Science,7.58,58.0,78.0,73.0,Yes
+S0523,Female,Electronics,8.75,88.0,76.0,56.0,Yes
+S0524,Male,Mechanical,6.35,53.0,43.0,73.0,No
+S0525,Female,Mechanical,7.42,56.0,65.0,50.0,No
+S0526,Female,Information Technology,7.43,72.0,72.0,71.0,Yes
+S0527,Female,Computer Science,7.83,83.0,76.0,73.0,Yes
+S0528,Female,Electronics,8.69,91.0,84.0,91.0,Yes
+S0529,Male,Electronics,7.91,69.0,72.0,66.0,Yes
+S0530,Female,Information Technology,7.33,63.0,69.0,53.0,Yes
+S0531,Female,Information Technology,5.47,53.0,71.0,48.0,No
+S0532,Female,Information Technology,8.16,82.0,82.0,66.0,Yes
+S0533,Male,Electronics,7.72,77.0,74.0,78.0,No
+S0534,Female,Electronics,7.19,74.0,69.0,67.0,Yes
+S0535,Male,Information Technology,7.17,58.0,66.0,66.0,No
+S0536,Female,Computer Science,8.65,73.0,95.0,58.0,Yes
+S0537,Female,Information Technology,8.07,79.0,79.0,76.0,Yes
+S0538,Male,Information Technology,8.0,66.0,60.0,76.0,Yes
+S0539,Male,Information Technology,8.35,92.0,80.0,47.0,Yes
+S0540,Female,Mechanical,6.15,45.0,54.0,66.0,No
+S0541,Male,Information Technology,5.75,67.0,84.0,50.0,No
+S0542,Male,Information Technology,8.21,74.0,72.0,73.0,Yes
+S0543,Male,Business Administration,6.65,56.0,52.0,66.0,No
+S0544,Male,Information Technology,5.79,21.0,61.0,59.0,No
+S0545,Male,Civil Engineering,7.57,68.0,62.0,59.0,No
+S0546,Male,Mechanical,6.68,63.0,63.0,81.0,No
+S0547,Male,Computer Science,7.22,54.0,71.0,59.0,No
+S0548,Female,Information Technology,10.0,87.0,95.0,95.0,Yes
+S0549,Female,Mechanical,5.23,45.0,30.0,64.0,No
+S0550,Male,Information Technology,7.23,76.0,83.0,67.0,No
+S0551,Male,Business Administration,6.71,63.0,50.0,63.0,No
+S0552,Male,Electronics,8.43,67.0,63.0,56.0,No
+S0553,Female,Mechanical,7.38,79.0,81.0,66.0,Yes
+S0554,Male,Computer Science,7.72,83.0,76.0,53.0,Yes
+S0555,Female,Electronics,6.12,58.0,46.0,69.0,No
+S0556,Female,Business Administration,7.01,41.0,51.0,37.0,No
+S0557,Female,Electronics,8.67,66.0,78.0,74.0,Yes
+S0558,Female,Electronics,8.4,73.0,62.0,76.0,Yes
+S0559,Male,Electronics,7.43,63.0,54.0,60.0,No
+S0560,Female,Electronics,8.95,93.0,80.0,79.0,Yes
+S0561,Male,Electronics,6.69,50.0,55.0,61.0,No
+S0562,Female,Electronics,7.24,67.0,70.0,56.0,Yes
+S0563,Female,Computer Science,7.38,68.0,58.0,61.0,No
+S0564,Male,Mechanical,7.46,56.0,50.0,90.0,Yes
+S0565,Female,Computer Science,7.6,73.0,65.0,52.0,Yes
+S0566,Male,Computer Science,8.08,63.0,79.0,57.0,Yes
+S0567,Female,Electronics,7.89,69.0,65.0,66.0,Yes
+S0568,Male,Computer Science,8.25,85.0,72.0,70.0,Yes
+S0569,Male,Electronics,7.28,73.0,83.0,64.0,Yes
+S0570,Female,Information Technology,6.87,55.0,68.0,54.0,Yes
+S0571,Female,Computer Science,6.69,72.0,63.0,56.0,No
+S0572,Female,Information Technology,5.88,45.0,52.0,42.0,No
+S0573,Female,Information Technology,7.87,78.0,66.0,73.0,Yes
+S0574,Female,Electronics,7.18,55.0,76.0,56.0,Yes
+S0575,Male,Computer Science,8.01,63.0,61.0,68.0,Yes
+S0576,Female,Mechanical,7.38,72.0,63.0,73.0,Yes
+S0577,Female,Computer Science,7.65,71.0,78.0,61.0,Yes
+S0578,Male,Business Administration,9.45,84.0,65.0,74.0,Yes
+S0579,Female,Computer Science,8.19,74.0,65.0,58.0,Yes
+S0580,Male,Information Technology,8.59,75.0,79.0,62.0,Yes
+S0581,Female,Business Administration,6.19,58.0,60.0,46.0,No
+S0582,Female,Computer Science,7.26,67.0,62.0,55.0,Yes
+S0583,Female,Electronics,5.26,43.0,44.0,65.0,No
+S0584,Female,Mechanical,6.5,73.0,60.0,73.0,No
+S0585,Female,Civil Engineering,4.96,45.0,42.0,34.0,No
+S0586,Male,Information Technology,8.28,78.0,76.0,53.0,Yes
+S0587,Female,Electronics,7.18,57.0,57.0,79.0,Yes
+S0588,Female,Electronics,7.71,59.0,70.0,53.0,Yes
+S0589,Female,Business Administration,7.48,63.0,37.0,69.0,No
+S0590,Male,Computer Science,7.7,67.0,97.0,68.0,Yes
+S0591,Male,Electronics,6.82,44.0,50.0,86.0,Yes
+S0592,Male,Mechanical,7.38,78.0,74.0,44.0,Yes
+S0593,Female,Information Technology,8.01,75.0,66.0,55.0,Yes
+S0594,Female,Business Administration,8.76,80.0,70.0,80.0,Yes
+S0595,Female,Electronics,7.08,53.0,51.0,66.0,No
+S0596,Male,Civil Engineering,8.38,74.0,77.0,76.0,Yes
+S0597,Female,Information Technology,9.0,85.0,90.0,74.0,Yes
+S0598,Male,Computer Science,7.59,60.0,64.0,56.0,Yes
+S0599,Male,Mechanical,8.52,82.0,75.0,51.0,Yes
+S0600,Female,Information Technology,5.59,48.0,48.0,69.0,No
+S0601,Female,Electronics,8.12,68.0,73.0,62.0,Yes
+S0602,Male,Computer Science,6.08,48.0,75.0,56.0,No
+S0603,Female,Information Technology,5.75,67.0,47.0,67.0,No
+S0604,Male,Information Technology,7.88,62.0,65.0,66.0,Yes
+S0605,Female,Business Administration,9.5,95.0,71.0,89.0,Yes
+S0606,Male,Electronics,7.82,80.0,56.0,66.0,No
+S0607,Female,Electronics,7.98,71.0,55.0,54.0,Yes
+S0608,Male,Electronics,6.33,48.0,51.0,79.0,No
+S0609,Female,Computer Science,6.44,61.0,61.0,69.0,No
+S0610,Female,Computer Science,7.38,63.0,72.0,52.0,Yes
+S0611,Female,Mechanical,6.85,69.0,65.0,71.0,No
+S0612,Male,Information Technology,7.49,69.0,73.0,73.0,Yes
+S0613,Male,Computer Science,6.71,74.0,64.0,57.0,No
+S0614,Female,Electronics,7.9,79.0,67.0,55.0,Yes
+S0615,Male,Civil Engineering,5.18,47.0,41.0,61.0,No
+S0616,Female,Electronics,7.17,67.0,66.0,65.0,No
+S0617,Male,Business Administration,5.79,45.0,38.0,51.0,No
+S0618,Male,Electronics,8.14,78.0,84.0,67.0,Yes
+S0619,Male,Computer Science,7.77,70.0,65.0,61.0,Yes
+S0620,Male,Information Technology,7.38,64.0,69.0,65.0,No
+S0621,Female,Electronics,7.76,67.0,81.0,80.0,Yes
+S0622,Female,Electronics,8.47,75.0,51.0,84.0,Yes
+S0623,Male,Computer Science,7.07,64.0,84.0,72.0,Yes
+S0624,Female,Information Technology,6.67,59.0,68.0,65.0,Yes
+S0625,Female,Computer Science,8.2,87.0,86.0,66.0,Yes
+S0626,Male,Business Administration,8.06,68.0,50.0,72.0,No
+S0627,Male,Business Administration,5.44,44.0,51.0,40.0,No
+S0628,Male,Mechanical,9.12,83.0,91.0,91.0,Yes
+S0629,Male,Civil Engineering,6.43,64.0,59.0,56.0,Yes
+S0630,Male,Electronics,8.52,67.0,99.0,76.0,Yes
+S0631,Female,Information Technology,7.61,59.0,63.0,67.0,Yes
+S0632,Female,Computer Science,8.54,63.0,77.0,83.0,Yes
+S0633,Female,Mechanical,8.49,63.0,41.0,59.0,No
+S0634,Female,Computer Science,7.67,84.0,78.0,67.0,No
+S0635,Male,Information Technology,6.99,58.0,58.0,54.0,Yes
+S0636,Female,Electronics,6.15,61.0,51.0,57.0,Yes
+S0637,Female,Mechanical,6.68,55.0,56.0,81.0,No
+S0638,Female,Business Administration,8.16,77.0,59.0,98.0,No
+S0639,Male,Information Technology,8.59,73.0,62.0,88.0,Yes
+S0640,Female,Computer Science,5.62,42.0,52.0,75.0,No
+S0641,Male,Information Technology,7.71,69.0,65.0,63.0,Yes
+S0642,Female,Computer Science,7.38,64.0,91.0,66.0,Yes
+S0643,Female,Electronics,8.2,75.0,82.0,79.0,Yes
+S0644,Male,Electronics,6.34,64.0,57.0,62.0,Yes
+S0645,Male,Computer Science,7.36,72.0,79.0,45.0,No
+S0646,Female,Business Administration,7.25,66.0,46.0,61.0,No
+S0647,Female,Business Administration,7.65,72.0,56.0,82.0,Yes
+S0648,Female,Civil Engineering,7.55,63.0,59.0,98.0,No
+S0649,Male,Business Administration,6.88,60.0,61.0,70.0,Yes
+S0650,Female,Business Administration,9.56,80.0,63.0,69.0,Yes
+S0651,Male,Information Technology,6.64,60.0,53.0,57.0,No
+S0652,Female,Electronics,7.9,81.0,78.0,77.0,Yes
+S0653,Male,Computer Science,7.38,71.0,72.0,72.0,No
+S0654,Male,Electronics,7.29,57.0,68.0,75.0,Yes
+S0655,Female,Computer Science,7.08,65.0,64.0,64.0,No
+S0656,Male,Information Technology,8.03,72.0,64.0,67.0,Yes
+S0657,Female,Electronics,8.03,74.0,64.0,45.0,Yes
+S0658,Male,Business Administration,10.0,92.0,86.0,73.0,Yes
+S0659,Male,Computer Science,7.57,72.0,84.0,69.0,Yes
+S0660,Male,Civil Engineering,7.38,68.0,45.0,61.0,No
+S0661,Male,Mechanical,7.78,91.0,76.0,66.0,Yes
+S0662,Female,Mechanical,5.77,58.0,55.0,72.0,No
+S0663,Female,Electronics,7.77,62.0,70.0,43.0,Yes
+S0664,Female,Computer Science,6.23,38.0,63.0,71.0,No
+S0665,Male,Business Administration,6.98,67.0,51.0,75.0,Yes
+S0666,Male,Electronics,6.78,84.0,70.0,62.0,Yes
+S0667,Male,Information Technology,5.85,65.0,61.0,68.0,No
+S0668,Female,Computer Science,7.38,77.0,66.0,58.0,Yes
+S0669,Male,Electronics,8.22,61.0,74.0,67.0,Yes
+S0670,Male,Computer Science,6.02,59.0,64.0,61.0,No
+S0671,Male,Civil Engineering,6.84,68.0,38.0,64.0,No
+S0672,Female,Mechanical,7.5,77.0,46.0,80.0,No
+S0673,Male,Civil Engineering,5.31,39.0,44.0,46.0,No
+S0674,Male,Computer Science,8.91,84.0,100.0,70.0,Yes
+S0675,Male,Electronics,7.17,54.0,63.0,44.0,No
+S0676,Male,Civil Engineering,7.77,75.0,64.0,49.0,Yes
+S0677,Male,Business Administration,6.67,63.0,38.0,62.0,No
+S0678,Female,Computer Science,6.5,50.0,75.0,69.0,No
+S0679,Male,Information Technology,8.29,68.0,65.0,48.0,No
+S0680,Female,Computer Science,8.05,72.0,74.0,67.0,Yes
+S0681,Male,Mechanical,7.05,63.0,42.0,63.0,No
+S0682,Female,Computer Science,6.45,59.0,41.0,79.0,No
+S0683,Female,Electronics,7.77,77.0,68.0,66.0,Yes
+S0684,Male,Information Technology,8.23,66.0,67.0,68.0,Yes
+S0685,Male,Business Administration,8.9,90.0,64.0,93.0,No
+S0686,Male,Computer Science,6.06,33.0,46.0,56.0,No
+S0687,Male,Business Administration,8.32,70.0,71.0,70.0,No
+S0688,Female,Computer Science,7.09,65.0,95.0,60.0,No
+S0689,Female,Computer Science,8.38,88.0,69.0,90.0,Yes
+S0690,Female,Electronics,6.96,63.0,60.0,61.0,No
+S0691,Female,Computer Science,6.97,65.0,51.0,73.0,Yes
+S0692,Male,Mechanical,7.45,66.0,47.0,67.0,Yes
+S0693,Female,Computer Science,7.68,67.0,65.0,58.0,Yes
+S0694,Female,Mechanical,8.5,83.0,65.0,65.0,Yes
+S0695,Female,Mechanical,7.62,64.0,60.0,90.0,Yes
+S0696,Female,Computer Science,7.53,81.0,65.0,56.0,Yes
+S0697,Female,Computer Science,6.53,74.0,64.0,73.0,Yes
+S0698,Female,Computer Science,6.31,58.0,55.0,49.0,No
+S0699,Female,Business Administration,7.36,42.0,54.0,66.0,Yes
+S0700,Male,Business Administration,7.25,57.0,53.0,71.0,Yes
+S0701,Male,Computer Science,7.14,74.0,75.0,66.0,Yes
+S0702,Male,Information Technology,6.69,58.0,59.0,72.0,Yes
+S0703,Male,Computer Science,6.17,67.0,56.0,46.0,Yes
+S0704,Male,Electronics,7.1,72.0,71.0,72.0,Yes
+S0705,Male,Computer Science,6.68,67.0,64.0,90.0,Yes
+S0706,Male,Electronics,5.54,67.0,50.0,70.0,No
+S0707,Male,Information Technology,6.97,74.0,54.0,62.0,No
+S0708,Female,Business Administration,6.57,62.0,58.0,67.0,No
+S0709,Male,Business Administration,6.86,54.0,42.0,74.0,No
+S0710,Female,Computer Science,8.8,71.0,97.0,66.0,Yes
+S0711,Male,Information Technology,6.53,46.0,59.0,84.0,No
+S0712,Male,Electronics,7.18,67.0,64.0,64.0,No
+S0713,Male,Electronics,7.72,66.0,63.0,87.0,No
+S0714,Female,Civil Engineering,7.38,72.0,64.0,73.0,No
+S0715,Female,Electronics,6.96,60.0,56.0,66.0,Yes
+S0716,Female,Computer Science,8.38,80.0,73.0,81.0,Yes
+S0717,Male,Computer Science,7.37,67.0,72.0,54.0,Yes
+S0718,Male,Electronics,8.14,73.0,76.0,66.0,Yes
+S0719,Female,Civil Engineering,5.68,44.0,59.0,67.0,No
+S0720,Female,Mechanical,6.86,67.0,70.0,91.0,Yes
+S0721,Male,Computer Science,7.89,70.0,71.0,55.0,Yes
+S0722,Male,Electronics,5.95,67.0,49.0,57.0,No
+S0723,Male,Electronics,7.33,56.0,75.0,63.0,No
+S0724,Female,Computer Science,5.89,42.0,60.0,47.0,No
+S0725,Male,Electronics,8.21,85.0,68.0,54.0,Yes
+S0726,Male,Computer Science,7.63,64.0,65.0,52.0,Yes
+S0727,Female,Computer Science,6.25,61.0,64.0,81.0,No
+S0728,Male,Civil Engineering,6.06,63.0,61.0,58.0,No
+S0729,Female,Information Technology,6.44,40.0,74.0,81.0,No
+S0730,Male,Business Administration,6.05,53.0,45.0,69.0,No
+S0731,Male,Computer Science,6.54,52.0,69.0,68.0,No
+S0732,Female,Information Technology,7.38,58.0,82.0,57.0,Yes
+S0733,Female,Business Administration,8.81,88.0,53.0,72.0,Yes
+S0734,Female,Computer Science,7.61,69.0,62.0,80.0,Yes
+S0735,Female,Business Administration,7.38,67.0,61.0,56.0,No
+S0736,Female,Computer Science,6.56,62.0,60.0,82.0,No
+S0737,Male,Information Technology,6.31,57.0,65.0,61.0,Yes
+S0738,Male,Civil Engineering,6.43,55.0,47.0,63.0,No
+S0739,Female,Information Technology,8.31,82.0,65.0,68.0,Yes
+S0740,Female,Computer Science,7.63,74.0,77.0,71.0,Yes
+S0741,Male,Information Technology,6.76,64.0,79.0,74.0,Yes
+S0742,Male,Information Technology,7.79,75.0,70.0,71.0,Yes
+S0743,Male,Civil Engineering,7.01,76.0,66.0,66.0,No
+S0744,Male,Business Administration,8.32,85.0,58.0,83.0,Yes
+S0745,Female,Information Technology,6.61,64.0,76.0,72.0,Yes
+S0746,Male,Civil Engineering,8.95,72.0,61.0,89.0,Yes
+S0747,Male,Computer Science,6.62,53.0,68.0,61.0,No
+S0748,Male,Information Technology,7.89,71.0,78.0,74.0,Yes
+S0749,Female,Information Technology,8.97,77.0,71.0,72.0,No
+S0750,Male,Electronics,7.39,76.0,55.0,83.0,Yes
+S0751,Female,Computer Science,8.5,89.0,83.0,86.0,Yes
+S0752,Male,Computer Science,8.74,85.0,85.0,63.0,Yes
+S0753,Male,Business Administration,6.59,68.0,66.0,64.0,Yes
+S0754,Female,Information Technology,6.04,52.0,48.0,63.0,No
+S0755,Female,Civil Engineering,6.74,45.0,51.0,48.0,No
+S0756,Male,Information Technology,6.65,49.0,62.0,60.0,No
+S0757,Female,Information Technology,7.95,67.0,67.0,81.0,Yes
+S0758,Male,Information Technology,7.07,62.0,68.0,75.0,Yes
+S0759,Female,Business Administration,7.72,67.0,50.0,70.0,Yes
+S0760,Male,Electronics,7.67,51.0,59.0,52.0,No
+S0761,Male,Computer Science,7.82,74.0,81.0,75.0,Yes
+S0762,Female,Computer Science,9.46,75.0,96.0,70.0,Yes
+S0763,Male,Electronics,7.87,63.0,67.0,61.0,No
+S0764,Female,Business Administration,5.85,55.0,65.0,49.0,No
+S0765,Female,Electronics,7.93,63.0,80.0,80.0,No
+S0766,Male,Civil Engineering,8.46,67.0,51.0,74.0,Yes
+S0767,Female,Information Technology,8.7,78.0,63.0,69.0,Yes
+S0768,Male,Computer Science,7.38,55.0,69.0,59.0,No
+S0769,Male,Civil Engineering,6.7,59.0,46.0,79.0,No
+S0770,Male,Computer Science,7.49,59.0,80.0,57.0,Yes
+S0771,Female,Business Administration,7.65,54.0,57.0,75.0,No
+S0772,Male,Electronics,8.05,89.0,73.0,66.0,Yes
+S0773,Male,Information Technology,6.8,61.0,83.0,56.0,No
+S0774,Male,Mechanical,7.44,71.0,76.0,70.0,Yes
+S0775,Female,Computer Science,7.01,77.0,52.0,58.0,Yes
+S0776,Female,Business Administration,8.35,82.0,70.0,66.0,Yes
+S0777,Female,Computer Science,7.18,63.0,82.0,54.0,Yes
+S0778,Male,Information Technology,8.2,56.0,67.0,47.0,Yes
+S0779,Male,Electronics,7.24,58.0,59.0,72.0,No
+S0780,Female,Business Administration,7.76,52.0,53.0,59.0,Yes
+S0781,Female,Mechanical,8.0,68.0,62.0,70.0,Yes
+S0782,Female,Computer Science,5.74,44.0,76.0,42.0,No
+S0783,Female,Mechanical,7.35,62.0,69.0,68.0,Yes
+S0784,Female,Information Technology,6.95,55.0,54.0,51.0,Yes
+S0785,Male,Mechanical,6.84,67.0,49.0,36.0,No
+S0786,Female,Computer Science,7.4,63.0,76.0,51.0,Yes
+S0787,Male,Computer Science,6.89,70.0,83.0,59.0,Yes
+S0788,Female,Mechanical,8.2,63.0,59.0,74.0,No
+S0789,Female,Mechanical,8.94,79.0,65.0,64.0,Yes
+S0790,Male,Business Administration,5.93,54.0,47.0,57.0,No
+S0791,Male,Information Technology,7.2,56.0,56.0,43.0,Yes
+S0792,Male,Computer Science,7.63,66.0,85.0,61.0,Yes
+S0793,Male,Information Technology,7.41,73.0,77.0,72.0,Yes
+S0794,Male,Information Technology,8.61,78.0,84.0,66.0,Yes
+S0795,Male,Civil Engineering,6.52,53.0,56.0,75.0,No
+S0796,Female,Information Technology,8.02,67.0,76.0,67.0,Yes
+S0797,Female,Business Administration,7.05,62.0,48.0,56.0,No
+S0798,Male,Information Technology,8.44,73.0,83.0,50.0,No
+S0799,Female,Civil Engineering,8.34,73.0,52.0,79.0,Yes
+S0800,Female,Computer Science,6.42,63.0,71.0,56.0,Yes
+S0801,Female,Business Administration,7.34,67.0,67.0,54.0,Yes
+S0802,Male,Computer Science,5.33,44.0,61.0,50.0,No
+S0803,Male,Mechanical,6.54,65.0,61.0,66.0,No
+S0804,Female,Information Technology,6.44,55.0,52.0,63.0,No
+S0805,Male,Business Administration,4.5,21.0,31.0,73.0,No
+S0806,Female,Information Technology,7.19,66.0,62.0,70.0,No
+S0807,Female,Mechanical,7.44,72.0,52.0,44.0,Yes
+S0808,Male,Information Technology,8.03,67.0,61.0,69.0,No
+S0809,Male,Civil Engineering,6.39,54.0,45.0,66.0,No
+S0810,Female,Computer Science,7.91,76.0,75.0,67.0,Yes
+S0811,Female,Computer Science,7.83,66.0,84.0,78.0,Yes
+S0812,Male,Business Administration,8.33,89.0,54.0,93.0,Yes
+S0813,Male,Civil Engineering,8.48,84.0,69.0,73.0,Yes
+S0814,Male,Computer Science,8.99,84.0,65.0,66.0,Yes
+S0815,Male,Business Administration,7.6,63.0,61.0,70.0,Yes
+S0816,Female,Computer Science,6.98,61.0,71.0,77.0,No
+S0817,Female,Computer Science,8.13,84.0,78.0,70.0,Yes
+S0818,Male,Information Technology,7.64,61.0,54.0,62.0,Yes
+S0819,Male,Computer Science,6.93,58.0,64.0,63.0,No
+S0820,Male,Information Technology,7.38,56.0,74.0,88.0,No
+S0821,Female,Business Administration,6.86,65.0,61.0,60.0,No
+S0822,Male,Information Technology,8.21,56.0,75.0,70.0,Yes
+S0823,Male,Information Technology,7.73,77.0,67.0,87.0,Yes
+S0824,Male,Computer Science,7.6,64.0,91.0,64.0,Yes
+S0825,Female,Business Administration,8.0,64.0,71.0,67.0,No
+S0826,Male,Mechanical,4.94,67.0,31.0,63.0,No
+S0827,Male,Computer Science,7.19,61.0,76.0,81.0,Yes
+S0828,Male,Civil Engineering,7.61,94.0,80.0,78.0,Yes
+S0829,Female,Computer Science,7.35,79.0,70.0,67.0,No
+S0830,Male,Computer Science,7.43,55.0,78.0,67.0,Yes
+S0831,Female,Electronics,6.33,60.0,66.0,70.0,No
+S0832,Male,Information Technology,6.44,69.0,69.0,48.0,Yes
+S0833,Male,Civil Engineering,6.41,50.0,68.0,42.0,No
+S0834,Female,Business Administration,5.71,44.0,37.0,41.0,No
+S0835,Female,Computer Science,7.2,63.0,64.0,62.0,Yes
+S0836,Male,Information Technology,6.19,48.0,68.0,67.0,No
+S0837,Male,Information Technology,5.5,47.0,60.0,52.0,No
+S0838,Male,Mechanical,6.82,70.0,61.0,72.0,No
+S0839,Female,Computer Science,6.11,62.0,79.0,70.0,No
+S0840,Male,Electronics,8.7,93.0,75.0,75.0,Yes
+S0841,Male,Information Technology,5.72,50.0,68.0,72.0,No
+S0842,Female,Electronics,7.68,64.0,72.0,64.0,Yes
+S0843,Female,Information Technology,8.89,74.0,84.0,52.0,Yes
+S0844,Male,Mechanical,8.06,77.0,64.0,88.0,Yes
+S0845,Female,Electronics,5.35,44.0,65.0,64.0,No
+S0846,Female,Information Technology,7.28,78.0,64.0,77.0,Yes
+S0847,Male,Information Technology,7.4,68.0,84.0,70.0,Yes
+S0848,Male,Civil Engineering,8.32,84.0,61.0,65.0,Yes
+S0849,Male,Civil Engineering,7.42,71.0,56.0,69.0,Yes
+S0850,Female,Computer Science,8.21,77.0,63.0,78.0,Yes
+S0851,Male,Electronics,8.98,83.0,68.0,50.0,Yes
+S0852,Female,Electronics,6.7,51.0,60.0,56.0,No
+S0853,Male,Mechanical,7.55,76.0,55.0,81.0,Yes
+S0854,Female,Electronics,6.14,54.0,64.0,46.0,No
+S0855,Female,Information Technology,6.81,58.0,54.0,60.0,No
+S0856,Female,Information Technology,7.43,63.0,76.0,45.0,Yes
+S0857,Female,Business Administration,8.82,92.0,58.0,57.0,Yes
+S0858,Male,Civil Engineering,9.25,82.0,53.0,75.0,Yes
+S0859,Male,Information Technology,6.42,47.0,62.0,59.0,No
+S0860,Female,Business Administration,7.14,71.0,53.0,53.0,No
+S0861,Male,Electronics,6.81,67.0,68.0,89.0,No
+S0862,Female,Electronics,7.78,66.0,59.0,53.0,Yes
+S0863,Male,Information Technology,5.94,76.0,67.0,66.0,Yes
+S0864,Male,Computer Science,7.04,59.0,84.0,58.0,Yes
+S0865,Male,Business Administration,7.82,61.0,65.0,70.0,Yes
+S0866,Male,Electronics,8.23,76.0,77.0,85.0,Yes
+S0867,Female,Civil Engineering,5.0,50.0,61.0,69.0,No
+S0868,Male,Mechanical,8.8,69.0,47.0,71.0,No
+S0869,Female,Mechanical,5.95,72.0,46.0,55.0,No
+S0870,Male,Information Technology,6.65,51.0,56.0,74.0,No
+S0871,Female,Business Administration,8.39,74.0,49.0,53.0,Yes
+S0872,Female,Computer Science,7.5,68.0,81.0,44.0,Yes
+S0873,Female,Electronics,9.08,88.0,87.0,54.0,Yes
+S0874,Male,Computer Science,6.59,64.0,60.0,39.0,No
+S0875,Male,Business Administration,7.38,71.0,55.0,53.0,No
+S0876,Female,Mechanical,8.38,65.0,62.0,80.0,Yes
+S0877,Male,Computer Science,6.61,52.0,85.0,73.0,No
+S0878,Female,Information Technology,6.62,55.0,50.0,69.0,No
+S0879,Male,Information Technology,8.39,85.0,81.0,72.0,Yes
+S0880,Male,Civil Engineering,7.88,70.0,64.0,74.0,Yes
+S0881,Female,Business Administration,7.08,56.0,47.0,65.0,No
+S0882,Male,Computer Science,6.08,67.0,67.0,77.0,No
+S0883,Female,Computer Science,6.51,67.0,83.0,88.0,Yes
+S0884,Female,Information Technology,6.66,67.0,55.0,56.0,No
+S0885,Female,Computer Science,7.09,54.0,62.0,52.0,Yes
+S0886,Female,Information Technology,7.06,62.0,56.0,64.0,Yes
+S0887,Female,Business Administration,6.27,51.0,46.0,47.0,No
+S0888,Male,Information Technology,8.63,68.0,96.0,81.0,Yes
+S0889,Male,Information Technology,6.29,57.0,64.0,56.0,No
+S0890,Female,Electronics,5.03,38.0,38.0,55.0,No
+S0891,Male,Computer Science,7.47,81.0,64.0,68.0,Yes
+S0892,Male,Business Administration,7.46,68.0,70.0,66.0,No
+S0893,Female,Computer Science,6.48,51.0,67.0,88.0,Yes
+S0894,Female,Computer Science,5.98,55.0,64.0,60.0,Yes
+S0895,Male,Information Technology,7.87,66.0,72.0,29.0,No
+S0896,Male,Electronics,7.22,69.0,65.0,70.0,No
+S0897,Female,Computer Science,6.79,55.0,74.0,69.0,Yes
+S0898,Male,Electronics,6.53,66.0,62.0,70.0,Yes
+S0899,Female,Business Administration,7.96,61.0,65.0,58.0,No
+S0900,Female,Information Technology,6.07,52.0,64.0,63.0,Yes
+S0901,Male,Information Technology,7.26,74.0,70.0,54.0,No
+S0902,Female,Business Administration,8.96,82.0,75.0,89.0,Yes
+S0903,Male,Computer Science,6.82,71.0,84.0,63.0,Yes
+S0904,Female,Mechanical,7.61,69.0,80.0,75.0,Yes
+S0905,Male,Electronics,7.38,75.0,100.0,63.0,Yes
+S0906,Male,Electronics,7.69,69.0,58.0,83.0,No
+S0907,Female,Electronics,7.19,65.0,64.0,65.0,Yes
+S0908,Female,Computer Science,7.76,79.0,67.0,66.0,No
+S0909,Female,Mechanical,7.91,67.0,48.0,73.0,Yes
+S0910,Female,Electronics,6.61,67.0,53.0,71.0,No
+S0911,Male,Electronics,6.68,48.0,63.0,72.0,Yes
+S0912,Female,Civil Engineering,6.1,66.0,50.0,67.0,No
+S0913,Female,Computer Science,8.29,84.0,77.0,78.0,Yes
+S0914,Male,Computer Science,6.33,54.0,67.0,74.0,No
+S0915,Female,Information Technology,7.2,61.0,61.0,45.0,No
+S0916,Female,Mechanical,6.53,69.0,59.0,74.0,Yes
+S0917,Male,Business Administration,7.6,80.0,59.0,59.0,No
+S0918,Female,Business Administration,8.97,72.0,74.0,80.0,Yes
+S0919,Male,Computer Science,6.26,51.0,71.0,77.0,No
+S0920,Male,Electronics,7.38,52.0,59.0,61.0,Yes
+S0921,Female,Computer Science,7.91,79.0,80.0,70.0,Yes
+S0922,Male,Computer Science,6.45,62.0,69.0,66.0,No
+S0923,Female,Information Technology,6.65,44.0,75.0,69.0,No
+S0924,Male,Information Technology,6.62,62.0,61.0,73.0,No
+S0925,Female,Computer Science,6.79,61.0,77.0,72.0,Yes
+S0926,Female,Computer Science,8.43,81.0,88.0,64.0,Yes
+S0927,Female,Mechanical,7.32,74.0,62.0,61.0,No
+S0928,Male,Electronics,8.38,78.0,65.0,59.0,Yes
+S0929,Female,Electronics,6.98,65.0,60.0,65.0,Yes
+S0930,Male,Computer Science,7.38,60.0,47.0,72.0,No
+S0931,Male,Computer Science,7.38,65.0,79.0,71.0,No
+S0932,Male,Computer Science,8.86,77.0,54.0,78.0,Yes
+S0933,Female,Computer Science,5.44,62.0,54.0,60.0,No
+S0934,Male,Business Administration,7.38,71.0,44.0,61.0,No
+S0935,Female,Information Technology,8.71,82.0,77.0,62.0,Yes
+S0936,Male,Computer Science,6.59,54.0,64.0,69.0,Yes
+S0937,Female,Information Technology,8.01,82.0,77.0,51.0,Yes
+S0938,Female,Electronics,5.23,67.0,57.0,42.0,No
+S0939,Female,Information Technology,7.62,59.0,75.0,62.0,No
+S0940,Female,Business Administration,7.73,75.0,53.0,74.0,Yes
+S0941,Male,Computer Science,6.8,66.0,65.0,58.0,No
+S0942,Female,Electronics,7.71,68.0,74.0,67.0,No
+S0943,Male,Mechanical,7.97,79.0,78.0,73.0,Yes
+S0944,Male,Information Technology,8.89,66.0,76.0,47.0,Yes
+S0945,Male,Civil Engineering,6.86,55.0,39.0,52.0,No
+S0946,Female,Civil Engineering,8.26,90.0,42.0,46.0,No
+S0947,Female,Computer Science,6.31,44.0,44.0,52.0,Yes
+S0948,Male,Computer Science,8.7,96.0,100.0,57.0,Yes
+S0949,Female,Computer Science,7.52,83.0,92.0,75.0,Yes
+S0950,Female,Information Technology,8.52,67.0,67.0,81.0,Yes
+S0951,Male,Computer Science,6.65,62.0,64.0,57.0,Yes
+S0952,Male,Information Technology,7.19,59.0,56.0,92.0,Yes
+S0953,Male,Computer Science,7.38,65.0,70.0,53.0,Yes
+S0954,Female,Business Administration,8.87,84.0,65.0,69.0,Yes
+S0955,Female,Information Technology,7.88,79.0,87.0,87.0,Yes
+S0956,Male,Information Technology,8.59,78.0,88.0,77.0,Yes
+S0957,Female,Mechanical,6.26,53.0,66.0,80.0,No
+S0958,Female,Computer Science,6.83,55.0,81.0,61.0,No
+S0959,Female,Electronics,7.75,63.0,82.0,52.0,Yes
+S0960,Male,Business Administration,7.27,65.0,51.0,66.0,No
+S0961,Female,Computer Science,6.44,52.0,59.0,66.0,No
+S0962,Male,Information Technology,6.47,55.0,56.0,73.0,No
+S0963,Female,Mechanical,10.0,97.0,77.0,70.0,Yes
+S0964,Female,Civil Engineering,7.51,73.0,70.0,72.0,Yes
+S0965,Male,Computer Science,8.57,86.0,75.0,78.0,Yes
+S0966,Male,Civil Engineering,4.99,45.0,55.0,60.0,No
+S0967,Female,Computer Science,9.48,100.0,73.0,100.0,Yes
+S0968,Female,Electronics,5.96,66.0,52.0,64.0,No
+S0969,Male,Electronics,8.06,74.0,69.0,63.0,Yes
+S0970,Male,Electronics,7.37,70.0,82.0,78.0,Yes
+S0971,Male,Electronics,7.99,61.0,66.0,47.0,No
+S0972,Male,Mechanical,7.48,70.0,66.0,74.0,Yes
+S0973,Male,Electronics,8.06,80.0,84.0,50.0,Yes
+S0974,Female,Business Administration,6.77,59.0,49.0,57.0,No
+S0975,Female,Electronics,7.51,67.0,55.0,52.0,No
+S0976,Female,Electronics,6.67,64.0,50.0,79.0,Yes
+S0977,Female,Business Administration,6.01,53.0,47.0,56.0,No
+S0978,Male,Computer Science,5.75,42.0,72.0,49.0,No
+S0979,Female,Civil Engineering,6.03,54.0,65.0,66.0,No
+S0980,Female,Computer Science,8.48,79.0,85.0,94.0,Yes
+S0981,Female,Computer Science,7.97,73.0,68.0,54.0,Yes
+S0982,Female,Information Technology,8.61,87.0,65.0,82.0,Yes
+S0983,Male,Mechanical,8.36,91.0,75.0,66.0,Yes
+S0984,Male,Business Administration,7.38,47.0,48.0,85.0,No
+S0985,Female,Computer Science,7.31,66.0,59.0,69.0,No
+S0986,Male,Computer Science,6.8,44.0,75.0,46.0,Yes
+S0987,Male,Business Administration,7.05,66.0,56.0,66.0,No
+S0988,Female,Computer Science,7.47,58.0,63.0,66.0,Yes
+S0989,Female,Information Technology,6.4,43.0,53.0,65.0,No
+S0990,Male,Information Technology,6.47,56.0,67.0,84.0,No
+S0991,Male,Information Technology,8.31,75.0,61.0,53.0,Yes
+S0992,Female,Computer Science,6.74,59.0,70.0,63.0,No
+S0993,Female,Electronics,6.11,50.0,57.0,73.0,No
+S0994,Male,Business Administration,8.85,72.0,47.0,58.0,Yes
+S0995,Male,Mechanical,9.12,75.0,87.0,66.0,Yes
+S0996,Male,Business Administration,7.34,56.0,44.0,55.0,Yes
+S0997,Female,Computer Science,8.33,75.0,85.0,67.0,Yes
+S0998,Female,Computer Science,8.15,83.0,76.0,74.0,Yes
+S0999,Male,Information Technology,7.54,71.0,67.0,59.0,No
+S1000,Male,Computer Science,7.38,47.0,65.0,67.0,Yes
+S1001,Female,Civil Engineering,7.27,63.0,50.0,62.0,No
+S1002,Male,Business Administration,7.91,75.0,66.0,62.0,Yes
+S1003,Male,Computer Science,6.68,50.0,80.0,62.0,Yes
+S1004,Male,Information Technology,8.41,91.0,68.0,85.0,Yes
+S1005,Female,Information Technology,7.66,67.0,65.0,77.0,Yes
+S1006,Female,Computer Science,7.78,57.0,77.0,80.0,Yes
+S1007,Female,Business Administration,7.38,47.0,31.0,87.0,No
+S1008,Female,Business Administration,7.34,54.0,46.0,53.0,No
+S1009,Male,Information Technology,7.57,67.0,74.0,79.0,Yes
+S1010,Male,Mechanical,7.14,61.0,44.0,64.0,No
+S1011,Male,Business Administration,8.24,75.0,64.0,55.0,No
+S1012,Female,Computer Science,9.0,67.0,79.0,66.0,Yes
+S1013,Female,Computer Science,9.17,82.0,92.0,66.0,Yes
+S1014,Female,Computer Science,8.66,80.0,77.0,91.0,Yes
+S1015,Female,Electronics,7.5,62.0,62.0,64.0,No
+S1016,Female,Computer Science,6.11,41.0,51.0,69.0,No
+S1017,Male,Information Technology,6.23,55.0,62.0,54.0,Yes
+S1018,Female,Computer Science,7.04,61.0,46.0,56.0,Yes
+S1019,Male,Civil Engineering,7.01,60.0,58.0,54.0,No
+S1020,Female,Business Administration,6.3,67.0,22.0,74.0,No
+S1021,Female,Mechanical,7.94,86.0,45.0,68.0,Yes
+S1022,Male,Mechanical,7.59,56.0,61.0,63.0,No
+S1023,Female,Business Administration,7.4,72.0,56.0,50.0,No
+S1024,Female,Information Technology,8.67,85.0,74.0,67.0,Yes
+S1025,Male,Computer Science,6.42,55.0,63.0,52.0,No
+S1026,Male,Computer Science,8.4,75.0,68.0,59.0,Yes
+S1027,Male,Information Technology,6.12,58.0,51.0,40.0,Yes
+S1028,Male,Information Technology,7.08,62.0,50.0,69.0,No
+S1029,Female,Civil Engineering,6.98,66.0,67.0,85.0,No
+S1030,Male,Information Technology,7.67,75.0,75.0,64.0,Yes
+S1031,Female,Information Technology,5.92,68.0,70.0,60.0,No
+S1032,Male,Information Technology,7.47,73.0,65.0,95.0,Yes
+S1033,Female,Information Technology,7.8,67.0,66.0,58.0,Yes
+S1034,Female,Information Technology,6.65,54.0,68.0,51.0,No
+S1035,Female,Information Technology,7.38,75.0,68.0,50.0,Yes
+S1036,Female,Business Administration,8.04,68.0,80.0,66.0,Yes
+S1037,Male,Information Technology,9.35,97.0,90.0,77.0,Yes
+S1038,Female,Electronics,7.16,70.0,85.0,57.0,Yes
+S1039,Male,Information Technology,8.43,70.0,75.0,60.0,Yes
+S1040,Female,Electronics,4.95,51.0,50.0,54.0,No
+S1041,Male,Civil Engineering,7.45,63.0,63.0,58.0,Yes
+S1042,Male,Computer Science,7.21,58.0,68.0,81.0,Yes
+S1043,Female,Computer Science,8.67,75.0,86.0,81.0,Yes
+S1044,Female,Information Technology,7.56,70.0,70.0,60.0,Yes
+S1045,Male,Computer Science,8.02,77.0,84.0,62.0,Yes
+S1046,Male,Computer Science,6.27,52.0,65.0,70.0,No
+S1047,Male,Civil Engineering,8.61,78.0,64.0,82.0,Yes
+S1048,Female,Electronics,9.19,77.0,82.0,63.0,Yes
+S1049,Male,Computer Science,7.23,61.0,81.0,57.0,Yes
+S1050,Male,Mechanical,6.96,68.0,65.0,67.0,No
+S1051,Female,Computer Science,8.38,79.0,59.0,50.0,Yes
+S1052,Female,Electronics,8.14,75.0,68.0,75.0,Yes
+S1053,Male,Computer Science,9.13,84.0,74.0,77.0,Yes
+S1054,Male,Mechanical,7.93,82.0,65.0,73.0,Yes
+S1055,Male,Computer Science,7.01,65.0,70.0,70.0,Yes
+S1056,Female,Information Technology,7.88,75.0,89.0,80.0,Yes
+S1057,Female,Computer Science,6.77,62.0,70.0,49.0,No
+S1058,Male,Business Administration,5.12,42.0,37.0,73.0,No
+S1059,Female,Electronics,6.3,57.0,57.0,74.0,No
+S1060,Male,Information Technology,6.62,49.0,71.0,49.0,No
+S1061,Female,Mechanical,6.77,63.0,49.0,54.0,Yes
+S1062,Male,Electronics,5.61,43.0,70.0,81.0,No
+S1063,Male,Computer Science,7.32,65.0,75.0,51.0,No
+S1064,Male,Electronics,7.85,61.0,86.0,80.0,Yes
+S1065,Male,Business Administration,7.99,81.0,68.0,63.0,No
+S1066,Female,Computer Science,6.66,62.0,61.0,81.0,Yes
+S1067,Male,Computer Science,6.11,60.0,75.0,74.0,No
+S1068,Female,Mechanical,7.98,84.0,61.0,76.0,Yes
+S1069,Male,Civil Engineering,6.84,63.0,56.0,78.0,Yes
+S1070,Female,Computer Science,6.75,69.0,64.0,58.0,Yes
+S1071,Male,Information Technology,7.55,68.0,79.0,78.0,Yes
+S1072,Female,Business Administration,7.41,94.0,74.0,63.0,Yes
+S1073,Male,Computer Science,6.81,59.0,52.0,49.0,Yes
+S1074,Female,Information Technology,7.24,64.0,80.0,64.0,Yes
+S1075,Male,Electronics,6.46,65.0,59.0,72.0,Yes
+S1076,Female,Business Administration,6.68,54.0,62.0,70.0,Yes
+S1077,Female,Mechanical,5.82,48.0,54.0,81.0,No
+S1078,Male,Electronics,7.3,71.0,65.0,91.0,Yes
+S1079,Male,Information Technology,8.0,84.0,76.0,71.0,No
+S1080,Male,Electronics,7.34,67.0,62.0,60.0,Yes
+S1081,Male,Civil Engineering,7.38,82.0,57.0,58.0,Yes
+S1082,Male,Computer Science,7.38,43.0,51.0,76.0,No
+S1083,Male,Computer Science,8.77,73.0,90.0,64.0,Yes
+S1084,Male,Computer Science,7.23,67.0,69.0,55.0,Yes
+S1085,Male,Mechanical,7.33,76.0,63.0,57.0,No
+S1086,Female,Information Technology,7.33,66.0,72.0,69.0,No
+S1087,Male,Computer Science,7.66,74.0,53.0,55.0,Yes
+S1088,Male,Computer Science,8.18,74.0,70.0,51.0,Yes
+S1089,Female,Computer Science,7.99,81.0,86.0,61.0,Yes
+S1090,Male,Mechanical,8.47,79.0,87.0,42.0,Yes
+S1091,Male,Computer Science,6.39,49.0,61.0,68.0,No
+S1092,Male,Computer Science,7.2,68.0,61.0,68.0,No
+S1093,Male,Computer Science,6.39,53.0,43.0,83.0,No
+S1094,Male,Information Technology,6.78,57.0,74.0,74.0,Yes
+S1095,Male,Business Administration,8.15,65.0,61.0,70.0,Yes
+S1096,Female,Mechanical,7.84,72.0,51.0,75.0,Yes
+S1097,Male,Civil Engineering,8.85,92.0,80.0,66.0,Yes
+S1098,Female,Civil Engineering,7.77,74.0,51.0,42.0,No
+S1099,Male,Computer Science,6.98,66.0,73.0,48.0,No
+S1100,Male,Mechanical,6.85,53.0,75.0,70.0,No
+S1101,Female,Mechanical,6.75,65.0,54.0,64.0,No
+S1102,Male,Computer Science,6.14,51.0,63.0,66.0,No
+S1103,Female,Computer Science,8.11,79.0,100.0,70.0,Yes
+S1104,Female,Mechanical,8.18,67.0,64.0,82.0,Yes
+S1105,Male,Civil Engineering,7.72,77.0,58.0,51.0,No
+S1106,Female,Mechanical,7.88,75.0,68.0,91.0,Yes
+S1107,Female,Computer Science,7.19,69.0,72.0,65.0,No
+S1108,Female,Mechanical,7.22,78.0,47.0,69.0,No
+S1109,Male,Information Technology,6.09,59.0,65.0,78.0,Yes
+S1110,Male,Business Administration,8.17,55.0,54.0,59.0,Yes
+S1111,Male,Computer Science,7.64,70.0,74.0,66.0,Yes
+S1112,Female,Information Technology,6.69,68.0,70.0,54.0,Yes
+S1113,Female,Computer Science,7.45,78.0,75.0,76.0,Yes
+S1114,Male,Electronics,8.06,72.0,83.0,60.0,Yes
+S1115,Female,Electronics,7.55,74.0,52.0,96.0,Yes
+S1116,Female,Electronics,7.62,53.0,87.0,100.0,No
+S1117,Female,Electronics,4.84,53.0,52.0,49.0,No
+S1118,Male,Civil Engineering,6.36,56.0,68.0,67.0,No
+S1119,Female,Computer Science,6.53,69.0,77.0,67.0,Yes
+S1120,Male,Civil Engineering,7.71,63.0,77.0,63.0,No
+S1121,Male,Information Technology,7.09,63.0,79.0,68.0,Yes
+S1122,Male,Mechanical,5.51,44.0,36.0,59.0,No
+S1123,Female,Computer Science,6.66,53.0,78.0,43.0,Yes
+S1124,Female,Computer Science,6.04,56.0,48.0,90.0,No
+S1125,Male,Civil Engineering,8.08,85.0,58.0,39.0,Yes
+S1126,Female,Computer Science,6.06,44.0,60.0,68.0,No
+S1127,Female,Computer Science,7.92,76.0,72.0,60.0,No
+S1128,Female,Computer Science,5.8,51.0,57.0,72.0,No
+S1129,Female,Information Technology,7.59,72.0,66.0,55.0,Yes
+S1130,Male,Mechanical,8.36,88.0,51.0,72.0,No
+S1131,Female,Computer Science,7.88,65.0,66.0,50.0,No
+S1132,Female,Information Technology,7.57,80.0,62.0,63.0,Yes
+S1133,Female,Civil Engineering,7.03,61.0,63.0,65.0,No
+S1134,Female,Information Technology,6.84,55.0,63.0,70.0,No
+S1135,Male,Computer Science,7.54,70.0,89.0,59.0,Yes
+S1136,Female,Mechanical,7.73,84.0,82.0,64.0,Yes
+S1137,Female,Electronics,7.17,68.0,70.0,62.0,Yes
+S1138,Female,Business Administration,8.48,81.0,59.0,68.0,Yes
+S1139,Male,Business Administration,5.78,49.0,52.0,59.0,No
+S1140,Female,Computer Science,6.63,49.0,52.0,69.0,No
+S1141,Male,Mechanical,5.81,53.0,62.0,62.0,No
+S1142,Female,Computer Science,5.81,54.0,66.0,74.0,No
+S1143,Female,Electronics,8.16,69.0,78.0,66.0,Yes
+S1144,Male,Computer Science,7.16,56.0,87.0,71.0,Yes
+S1145,Male,Mechanical,7.02,52.0,61.0,82.0,No
+S1146,Male,Business Administration,5.99,67.0,46.0,39.0,No
+S1147,Female,Information Technology,7.61,75.0,77.0,88.0,Yes
+S1148,Male,Computer Science,6.74,57.0,76.0,59.0,No
+S1149,Male,Information Technology,6.75,79.0,56.0,40.0,No
+S1150,Male,Computer Science,7.26,61.0,80.0,79.0,No
+S1151,Female,Business Administration,6.75,69.0,53.0,77.0,Yes
+S1152,Female,Civil Engineering,8.76,90.0,70.0,68.0,Yes
+S1153,Female,Information Technology,8.13,81.0,74.0,64.0,Yes
+S1154,Female,Electronics,8.97,81.0,60.0,52.0,Yes
+S1155,Male,Computer Science,8.07,83.0,72.0,51.0,Yes
+S1156,Female,Information Technology,7.12,69.0,73.0,66.0,No
+S1157,Male,Mechanical,7.96,71.0,56.0,89.0,Yes
+S1158,Female,Electronics,8.61,80.0,81.0,71.0,Yes
+S1159,Male,Electronics,7.98,82.0,65.0,72.0,No
+S1160,Female,Mechanical,8.56,64.0,56.0,57.0,Yes
+S1161,Female,Civil Engineering,7.93,76.0,82.0,67.0,Yes
+S1162,Male,Electronics,8.72,80.0,72.0,65.0,Yes
+S1163,Female,Computer Science,6.37,59.0,48.0,65.0,No
+S1164,Male,Business Administration,8.1,81.0,75.0,61.0,Yes
+S1165,Male,Mechanical,8.0,67.0,81.0,60.0,No
+S1166,Female,Information Technology,7.32,67.0,89.0,53.0,Yes
+S1167,Female,Civil Engineering,7.64,72.0,67.0,80.0,Yes
+S1168,Male,Business Administration,6.4,40.0,40.0,59.0,No
+S1169,Male,Business Administration,7.7,72.0,73.0,73.0,No
+S1170,Male,Computer Science,6.77,63.0,77.0,59.0,Yes
+S1171,Male,Information Technology,7.44,65.0,65.0,85.0,Yes
+S1172,Male,Electronics,6.03,45.0,74.0,72.0,No
+S1173,Female,Electronics,8.02,64.0,82.0,69.0,Yes
+S1174,Male,Information Technology,6.82,58.0,82.0,89.0,Yes
+S1175,Female,Business Administration,4.81,35.0,26.0,62.0,No
+S1176,Female,Computer Science,7.39,69.0,60.0,76.0,Yes
+S1177,Male,Computer Science,7.24,68.0,72.0,70.0,Yes
+S1178,Male,Computer Science,7.56,74.0,69.0,70.0,Yes
+S1179,Male,Business Administration,8.45,78.0,78.0,84.0,Yes
+S1180,Male,Mechanical,8.39,72.0,80.0,62.0,Yes
+S1181,Female,Information Technology,7.17,71.0,51.0,63.0,Yes
+S1182,Female,Mechanical,5.83,66.0,64.0,73.0,No
+S1183,Female,Computer Science,7.1,70.0,59.0,63.0,Yes
+S1184,Female,Electronics,8.39,97.0,77.0,64.0,Yes
+S1185,Female,Computer Science,7.57,69.0,80.0,51.0,Yes
+S1186,Male,Electronics,7.2,58.0,60.0,66.0,No
+S1187,Female,Computer Science,7.07,67.0,66.0,66.0,Yes
+S1188,Female,Computer Science,7.88,86.0,69.0,100.0,Yes
+S1189,Female,Computer Science,9.71,95.0,69.0,55.0,Yes
+S1190,Male,Mechanical,8.83,75.0,65.0,75.0,Yes
+S1191,Female,Computer Science,6.69,60.0,65.0,51.0,No
+S1192,Male,Information Technology,6.87,65.0,66.0,69.0,Yes
+S1193,Male,Business Administration,6.96,59.0,41.0,54.0,No
+S1194,Female,Civil Engineering,8.08,82.0,67.0,75.0,Yes
+S1195,Female,Civil Engineering,7.82,71.0,70.0,62.0,Yes
+S1196,Male,Electronics,6.5,57.0,75.0,52.0,No
+S1197,Male,Business Administration,6.2,50.0,60.0,78.0,No
+S1198,Female,Civil Engineering,6.32,47.0,65.0,61.0,No
+S1199,Female,Electronics,7.03,57.0,49.0,67.0,No
+S1200,Male,Electronics,8.42,77.0,93.0,64.0,Yes
+S1201,Female,Mechanical,6.9,53.0,74.0,69.0,No
+S1202,Male,Computer Science,7.61,75.0,68.0,75.0,Yes
+S1203,Male,Business Administration,8.49,78.0,81.0,49.0,Yes
+S1204,Male,Information Technology,6.99,52.0,69.0,66.0,No
+S1205,Female,Mechanical,9.01,83.0,64.0,52.0,Yes
+S1206,Female,Business Administration,8.56,85.0,65.0,67.0,Yes
+S1207,Male,Information Technology,7.9,70.0,65.0,64.0,Yes
+S1208,Male,Computer Science,9.48,79.0,97.0,67.0,Yes
+S1209,Female,Computer Science,6.22,43.0,58.0,59.0,No
+S1210,Male,Computer Science,7.38,77.0,74.0,73.0,Yes
+S1211,Male,Electronics,8.3,69.0,69.0,72.0,Yes
+S1212,Male,Computer Science,7.38,84.0,75.0,75.0,Yes
+S1213,Female,Electronics,7.33,75.0,65.0,53.0,No
+S1214,Female,Computer Science,6.14,61.0,76.0,48.0,No
+S1215,Male,Electronics,8.37,88.0,77.0,53.0,Yes
+S1216,Female,Mechanical,7.57,77.0,62.0,73.0,Yes
+S1217,Female,Civil Engineering,8.9,86.0,68.0,86.0,Yes
+S1218,Female,Computer Science,8.25,69.0,70.0,69.0,Yes
+S1219,Male,Business Administration,6.74,61.0,59.0,43.0,No
+S1220,Male,Computer Science,5.39,43.0,47.0,58.0,No
+S1221,Female,Electronics,7.84,52.0,55.0,56.0,No
+S1222,Female,Business Administration,7.27,68.0,61.0,59.0,No
+S1223,Female,Information Technology,6.74,54.0,68.0,65.0,No
+S1224,Female,Electronics,6.75,67.0,66.0,59.0,No
+S1225,Female,Information Technology,7.02,58.0,52.0,55.0,No
+S1226,Female,Electronics,8.18,76.0,86.0,61.0,Yes
+S1227,Male,Business Administration,7.01,62.0,46.0,84.0,No
+S1228,Male,Electronics,8.18,83.0,83.0,79.0,Yes
+S1229,Female,Computer Science,7.72,66.0,77.0,79.0,Yes
+S1230,Female,Business Administration,8.05,82.0,46.0,55.0,No
+S1231,Male,Mechanical,6.86,63.0,57.0,50.0,Yes
+S1232,Female,Computer Science,7.2,63.0,69.0,58.0,Yes
+S1233,Male,Mechanical,7.86,72.0,64.0,84.0,Yes
+S1234,Female,Information Technology,7.1,58.0,71.0,49.0,Yes
+S1235,Male,Mechanical,7.16,66.0,66.0,52.0,No
+S1236,Female,Business Administration,6.78,57.0,59.0,40.0,No
+S1237,Male,Civil Engineering,5.88,67.0,53.0,58.0,No
+S1238,Male,Mechanical,7.54,69.0,68.0,74.0,Yes
+S1239,Female,Electronics,7.69,79.0,67.0,75.0,No
+S1240,Male,Information Technology,7.41,52.0,76.0,35.0,No
+S1241,Female,Business Administration,9.32,98.0,63.0,55.0,Yes
+S1242,Male,Information Technology,7.61,64.0,67.0,63.0,Yes
+S1243,Female,Computer Science,7.02,58.0,63.0,74.0,Yes
+S1244,Male,Business Administration,5.54,47.0,37.0,63.0,No
+S1245,Female,Information Technology,6.57,67.0,52.0,50.0,No
+S1246,Male,Computer Science,7.73,71.0,67.0,72.0,Yes
+S1247,Female,Business Administration,7.96,65.0,68.0,79.0,Yes
+S1248,Male,Computer Science,7.83,60.0,84.0,54.0,Yes
+S1249,Female,Civil Engineering,6.36,65.0,50.0,57.0,No
+S1250,Female,Computer Science,5.89,39.0,22.0,71.0,No
+S1251,Male,Information Technology,6.77,56.0,70.0,79.0,Yes
+S1252,Female,Electronics,8.72,79.0,79.0,50.0,Yes
+S1253,Male,Electronics,7.99,73.0,73.0,62.0,Yes
+S1254,Male,Computer Science,7.21,80.0,69.0,59.0,Yes
+S1255,Male,Information Technology,8.71,65.0,73.0,68.0,Yes
+S1256,Male,Mechanical,7.19,65.0,60.0,77.0,No
+S1257,Female,Computer Science,5.26,27.0,57.0,45.0,No
+S1258,Male,Electronics,7.67,74.0,60.0,47.0,Yes
+S1259,Male,Mechanical,6.34,67.0,65.0,57.0,No
+S1260,Male,Electronics,5.48,32.0,52.0,55.0,No
+S1261,Female,Mechanical,7.91,80.0,58.0,66.0,No
+S1262,Female,Business Administration,5.17,39.0,57.0,61.0,No
+S1263,Male,Information Technology,7.42,69.0,90.0,64.0,Yes
+S1264,Male,Electronics,7.36,70.0,67.0,65.0,Yes
+S1265,Female,Electronics,6.73,67.0,71.0,50.0,No
+S1266,Female,Information Technology,6.41,61.0,59.0,55.0,No
+S1267,Male,Business Administration,8.17,77.0,53.0,60.0,Yes
+S1268,Female,Computer Science,7.76,76.0,66.0,58.0,No
+S1269,Female,Information Technology,8.85,88.0,93.0,60.0,Yes
+S1270,Male,Computer Science,8.46,84.0,90.0,72.0,Yes
+S1271,Male,Business Administration,8.45,75.0,72.0,78.0,Yes
+S1272,Female,Computer Science,5.78,64.0,40.0,50.0,No
+S1273,Female,Computer Science,7.64,65.0,74.0,48.0,Yes
+S1274,Female,Information Technology,7.63,48.0,77.0,66.0,Yes
+S1275,Male,Business Administration,6.71,61.0,54.0,72.0,No
+S1276,Male,Electronics,7.37,58.0,66.0,57.0,No
+S1277,Female,Mechanical,8.9,81.0,65.0,64.0,Yes
+S1278,Female,Business Administration,7.89,85.0,61.0,76.0,Yes
+S1279,Male,Business Administration,8.45,82.0,52.0,64.0,Yes
+S1280,Female,Computer Science,7.78,67.0,83.0,54.0,Yes
+S1281,Male,Business Administration,7.38,56.0,51.0,66.0,Yes
+S1282,Male,Computer Science,7.69,69.0,65.0,44.0,Yes
+S1283,Male,Electronics,7.32,78.0,87.0,62.0,No
+S1284,Male,Information Technology,6.83,73.0,68.0,74.0,No
+S1285,Female,Computer Science,9.31,89.0,96.0,66.0,No
+S1286,Female,Computer Science,9.0,89.0,62.0,63.0,Yes
+S1287,Female,Electronics,7.3,62.0,78.0,68.0,Yes
+S1288,Male,Information Technology,8.19,73.0,56.0,66.0,Yes
+S1289,Female,Information Technology,8.31,96.0,83.0,71.0,Yes
+S1290,Female,Civil Engineering,8.56,82.0,63.0,65.0,Yes
+S1291,Female,Information Technology,8.98,81.0,71.0,63.0,Yes
+S1292,Male,Computer Science,5.76,47.0,49.0,68.0,No
+S1293,Female,Mechanical,4.89,51.0,62.0,48.0,No
+S1294,Male,Mechanical,7.46,67.0,67.0,62.0,Yes
+S1295,Female,Electronics,6.92,67.0,70.0,69.0,No
+S1296,Female,Computer Science,5.35,48.0,69.0,57.0,No
+S1297,Female,Information Technology,8.34,78.0,86.0,96.0,Yes
+S1298,Male,Mechanical,7.68,67.0,61.0,80.0,Yes
+S1299,Male,Information Technology,7.5,62.0,67.0,61.0,No
+S1300,Female,Information Technology,6.83,59.0,69.0,61.0,No
+S1301,Female,Computer Science,6.61,64.0,60.0,65.0,No
+S1302,Male,Information Technology,7.36,69.0,76.0,35.0,Yes
+S1303,Female,Computer Science,6.66,70.0,75.0,59.0,No
+S1304,Female,Electronics,7.05,70.0,68.0,38.0,Yes
+S1305,Male,Business Administration,7.07,74.0,69.0,68.0,No
+S1306,Male,Mechanical,8.12,70.0,74.0,63.0,Yes
+S1307,Male,Electronics,8.3,55.0,79.0,88.0,Yes
+S1308,Female,Computer Science,5.86,45.0,56.0,55.0,No
+S1309,Male,Business Administration,7.07,77.0,62.0,57.0,Yes
+S1310,Female,Electronics,5.16,41.0,49.0,48.0,No
+S1311,Male,Computer Science,7.31,69.0,70.0,87.0,Yes
+S1312,Male,Computer Science,7.59,59.0,71.0,66.0,Yes
+S1313,Male,Computer Science,7.65,73.0,81.0,83.0,Yes
+S1314,Female,Information Technology,5.29,47.0,47.0,57.0,No
+S1315,Male,Information Technology,5.06,29.0,52.0,39.0,No
+S1316,Male,Information Technology,6.64,63.0,72.0,53.0,Yes
+S1317,Female,Electronics,6.91,60.0,65.0,77.0,No
+S1318,Female,Electronics,6.28,46.0,62.0,81.0,No
+S1319,Male,Information Technology,6.05,50.0,47.0,73.0,No
+S1320,Male,Civil Engineering,8.23,75.0,50.0,68.0,Yes
+S1321,Female,Mechanical,5.47,43.0,40.0,61.0,No
+S1322,Male,Electronics,8.88,77.0,72.0,65.0,Yes
+S1323,Female,Civil Engineering,7.82,73.0,63.0,73.0,Yes
+S1324,Male,Computer Science,8.04,86.0,76.0,72.0,Yes
+S1325,Female,Business Administration,7.71,72.0,56.0,52.0,No
+S1326,Male,Computer Science,6.92,57.0,48.0,55.0,No
+S1327,Male,Civil Engineering,7.88,82.0,60.0,63.0,Yes
+S1328,Female,Civil Engineering,7.38,66.0,50.0,69.0,No
+S1329,Male,Mechanical,9.34,67.0,65.0,88.0,Yes
+S1330,Male,Civil Engineering,7.39,66.0,47.0,85.0,Yes
+S1331,Female,Computer Science,7.43,74.0,61.0,74.0,No
+S1332,Female,Computer Science,6.6,60.0,57.0,64.0,Yes
+S1333,Female,Information Technology,7.41,65.0,70.0,68.0,Yes
+S1334,Female,Electronics,8.19,84.0,73.0,68.0,Yes
+S1335,Male,Information Technology,6.28,55.0,78.0,66.0,Yes
+S1336,Female,Business Administration,8.3,83.0,87.0,66.0,Yes
+S1337,Female,Computer Science,6.26,67.0,69.0,64.0,No
+S1338,Female,Computer Science,6.81,60.0,70.0,66.0,No
+S1339,Male,Computer Science,7.03,61.0,57.0,76.0,No
+S1340,Male,Business Administration,7.48,69.0,48.0,66.0,Yes
+S1341,Male,Information Technology,8.52,79.0,81.0,74.0,Yes
+S1342,Male,Electronics,7.46,51.0,60.0,61.0,No
+S1343,Male,Civil Engineering,7.81,74.0,49.0,89.0,No
+S1344,Female,Civil Engineering,7.94,65.0,66.0,67.0,Yes
+S1345,Female,Business Administration,9.45,93.0,77.0,69.0,Yes
+S1346,Female,Mechanical,8.66,100.0,83.0,86.0,Yes
+S1347,Male,Business Administration,8.21,73.0,69.0,46.0,Yes
+S1348,Male,Computer Science,6.15,42.0,51.0,77.0,No
+S1349,Male,Civil Engineering,5.95,52.0,52.0,45.0,No
+S1350,Male,Information Technology,7.27,69.0,70.0,71.0,No
+S1351,Male,Information Technology,4.67,33.0,49.0,70.0,No
+S1352,Male,Information Technology,8.43,81.0,63.0,53.0,No
+S1353,Male,Business Administration,6.68,57.0,43.0,70.0,No
+S1354,Male,Electronics,7.62,78.0,85.0,60.0,Yes
+S1355,Female,Computer Science,7.88,72.0,67.0,65.0,Yes
+S1356,Male,Business Administration,7.77,79.0,72.0,69.0,Yes
+S1357,Male,Computer Science,6.16,62.0,63.0,56.0,No
+S1358,Male,Mechanical,7.75,95.0,61.0,60.0,Yes
+S1359,Female,Computer Science,6.52,54.0,66.0,57.0,Yes
+S1360,Female,Information Technology,6.9,42.0,48.0,72.0,No
+S1361,Male,Computer Science,6.5,66.0,66.0,57.0,No
+S1362,Female,Electronics,9.5,67.0,79.0,86.0,Yes
+S1363,Female,Business Administration,5.87,50.0,53.0,96.0,No
+S1364,Female,Electronics,6.9,31.0,57.0,63.0,No
+S1365,Male,Business Administration,10.0,100.0,81.0,88.0,Yes
+S1366,Female,Civil Engineering,4.99,44.0,28.0,68.0,No
+S1367,Male,Electronics,5.59,49.0,52.0,63.0,No
+S1368,Female,Mechanical,7.97,61.0,56.0,71.0,Yes
+S1369,Male,Computer Science,6.8,61.0,70.0,78.0,Yes
+S1370,Female,Mechanical,9.56,84.0,58.0,68.0,Yes
+S1371,Male,Mechanical,7.54,59.0,53.0,73.0,Yes
+S1372,Female,Mechanical,7.55,89.0,58.0,51.0,No
+S1373,Female,Electronics,7.99,71.0,70.0,80.0,Yes
+S1374,Male,Civil Engineering,6.91,68.0,57.0,75.0,No
+S1375,Female,Information Technology,6.87,60.0,62.0,67.0,No
+S1376,Male,Mechanical,8.18,85.0,54.0,58.0,Yes
+S1377,Female,Information Technology,7.65,67.0,75.0,61.0,Yes
+S1378,Male,Computer Science,7.65,55.0,73.0,52.0,Yes
+S1379,Male,Mechanical,7.49,74.0,52.0,63.0,No
+S1380,Female,Information Technology,9.06,80.0,73.0,58.0,Yes
+S1381,Male,Computer Science,6.21,66.0,75.0,59.0,Yes
+S1382,Male,Civil Engineering,9.88,95.0,74.0,69.0,Yes
+S1383,Female,Civil Engineering,9.01,87.0,90.0,83.0,Yes
+S1384,Female,Computer Science,7.52,74.0,77.0,75.0,Yes
+S1385,Female,Computer Science,7.72,67.0,74.0,85.0,Yes
+S1386,Female,Computer Science,6.78,63.0,75.0,73.0,Yes
+S1387,Female,Information Technology,8.35,71.0,68.0,78.0,Yes
+S1388,Female,Mechanical,7.77,66.0,58.0,74.0,No
+S1389,Male,Electronics,8.46,81.0,61.0,90.0,Yes
+S1390,Male,Computer Science,7.66,67.0,78.0,72.0,Yes
+S1391,Male,Information Technology,6.34,64.0,65.0,51.0,Yes
+S1392,Male,Mechanical,8.07,71.0,65.0,79.0,Yes
+S1393,Female,Electronics,7.45,62.0,71.0,51.0,Yes
+S1394,Female,Electronics,6.81,68.0,84.0,63.0,Yes
+S1395,Female,Mechanical,8.54,67.0,83.0,72.0,Yes
+S1396,Male,Information Technology,8.94,89.0,79.0,86.0,Yes
+S1397,Female,Business Administration,7.72,79.0,57.0,68.0,Yes
+S1398,Female,Information Technology,7.1,65.0,70.0,54.0,No
+S1399,Male,Computer Science,6.34,59.0,52.0,58.0,No
+S1400,Male,Computer Science,5.4,40.0,60.0,50.0,No
+S1401,Male,Computer Science,6.78,43.0,71.0,70.0,Yes
+S1402,Female,Business Administration,6.78,61.0,54.0,59.0,Yes
+S1403,Female,Electronics,6.21,42.0,67.0,66.0,No
+S1404,Male,Business Administration,6.41,50.0,49.0,76.0,No
+S1405,Male,Business Administration,6.74,66.0,68.0,64.0,Yes
+S1406,Female,Computer Science,8.19,75.0,99.0,78.0,Yes
+S1407,Male,Mechanical,5.45,49.0,48.0,66.0,No
+S1408,Male,Electronics,6.82,60.0,49.0,31.0,No
+S1409,Female,Civil Engineering,8.03,73.0,56.0,56.0,No
+S1410,Male,Information Technology,7.38,91.0,77.0,67.0,Yes
+S1411,Male,Civil Engineering,8.55,79.0,57.0,54.0,Yes
+S1412,Male,Information Technology,8.01,70.0,65.0,73.0,No
+S1413,Male,Computer Science,6.81,49.0,59.0,46.0,Yes
+S1414,Female,Business Administration,7.58,77.0,51.0,56.0,No
+S1415,Female,Mechanical,7.38,86.0,75.0,71.0,Yes
+S1416,Female,Information Technology,5.16,34.0,53.0,40.0,No
+S1417,Female,Computer Science,7.38,60.0,65.0,64.0,Yes
+S1418,Male,Mechanical,8.91,78.0,70.0,83.0,Yes
+S1419,Male,Electronics,7.55,58.0,60.0,36.0,No
+S1420,Female,Information Technology,7.71,74.0,80.0,74.0,Yes
+S1421,Female,Business Administration,8.17,77.0,50.0,49.0,No
+S1422,Male,Information Technology,6.15,65.0,65.0,47.0,No
+S1423,Male,Computer Science,7.51,80.0,62.0,68.0,Yes
+S1424,Female,Civil Engineering,7.39,70.0,57.0,71.0,Yes
+S1425,Male,Electronics,7.69,63.0,77.0,65.0,Yes
+S1426,Female,Business Administration,6.99,57.0,58.0,66.0,Yes
+S1427,Female,Computer Science,7.72,87.0,68.0,68.0,Yes
+S1428,Male,Business Administration,6.51,55.0,49.0,58.0,No
+S1429,Male,Information Technology,7.45,62.0,76.0,68.0,Yes
+S1430,Female,Electronics,7.99,69.0,65.0,64.0,Yes
+S1431,Male,Electronics,6.96,60.0,54.0,68.0,No
+S1432,Female,Mechanical,9.09,97.0,56.0,76.0,Yes
+S1433,Male,Information Technology,7.38,72.0,74.0,90.0,Yes
+S1434,Male,Electronics,7.44,62.0,80.0,79.0,Yes
+S1435,Female,Mechanical,5.63,43.0,62.0,64.0,No
+S1436,Female,Computer Science,5.95,50.0,65.0,54.0,No
+S1437,Female,Civil Engineering,7.41,74.0,59.0,89.0,Yes
+S1438,Male,Civil Engineering,6.33,64.0,45.0,74.0,No
+S1439,Female,Civil Engineering,7.53,72.0,51.0,63.0,No
+S1440,Female,Electronics,8.25,69.0,74.0,70.0,Yes
+S1441,Male,Electronics,7.99,79.0,75.0,54.0,Yes
+S1442,Female,Computer Science,8.04,60.0,69.0,78.0,Yes
+S1443,Female,Computer Science,7.74,76.0,65.0,66.0,No
+S1444,Male,Information Technology,8.38,69.0,93.0,78.0,Yes
+S1445,Male,Computer Science,7.77,75.0,71.0,67.0,Yes
+S1446,Female,Electronics,7.38,55.0,56.0,67.0,No
+S1447,Male,Civil Engineering,6.7,54.0,62.0,80.0,No
+S1448,Female,Business Administration,6.82,45.0,50.0,59.0,No
+S1449,Female,Computer Science,5.75,34.0,49.0,67.0,No
+S1450,Male,Business Administration,6.88,55.0,55.0,63.0,No
+S1451,Female,Computer Science,7.38,59.0,44.0,93.0,No
+S1452,Female,Information Technology,7.91,65.0,75.0,69.0,No
+S1453,Female,Civil Engineering,6.49,66.0,62.0,83.0,Yes
+S1454,Male,Business Administration,7.34,57.0,68.0,53.0,No
+S1455,Female,Electronics,6.91,48.0,59.0,61.0,No
+S1456,Female,Civil Engineering,7.78,67.0,47.0,65.0,Yes
+S1457,Female,Electronics,7.49,71.0,61.0,65.0,No
+S1458,Male,Information Technology,7.33,68.0,79.0,69.0,Yes
+S1459,Male,Computer Science,7.66,64.0,76.0,72.0,Yes
+S1460,Male,Electronics,7.5,76.0,78.0,61.0,Yes
+S1461,Male,Electronics,6.44,58.0,63.0,65.0,No
+S1462,Female,Mechanical,6.85,55.0,55.0,88.0,No
+S1463,Female,Electronics,6.77,77.0,65.0,71.0,Yes
+S1464,Male,Business Administration,8.34,80.0,70.0,52.0,Yes
+S1465,Female,Electronics,5.73,53.0,47.0,64.0,No
+S1466,Female,Computer Science,7.32,60.0,81.0,65.0,No
+S1467,Female,Electronics,7.32,78.0,60.0,81.0,Yes
+S1468,Male,Civil Engineering,7.88,72.0,70.0,66.0,Yes
+S1469,Female,Computer Science,8.18,73.0,55.0,75.0,Yes
+S1470,Female,Computer Science,7.11,70.0,62.0,77.0,Yes
+S1471,Male,Computer Science,7.04,55.0,73.0,61.0,Yes
+S1472,Female,Electronics,6.59,66.0,70.0,100.0,Yes
+S1473,Male,Computer Science,7.81,81.0,72.0,80.0,Yes
+S1474,Male,Mechanical,7.25,71.0,75.0,54.0,Yes
+S1475,Male,Mechanical,7.52,76.0,67.0,53.0,Yes
+S1476,Female,Computer Science,8.38,85.0,95.0,72.0,Yes
+S1477,Male,Civil Engineering,7.38,56.0,67.0,74.0,No
+S1478,Female,Civil Engineering,6.19,51.0,65.0,66.0,No
+S1479,Female,Information Technology,7.52,51.0,71.0,66.0,Yes
+S1480,Male,Computer Science,8.28,73.0,67.0,65.0,Yes
+S1481,Female,Business Administration,6.63,52.0,52.0,55.0,No
+S1482,Female,Computer Science,7.17,69.0,71.0,79.0,Yes
+S1483,Female,Computer Science,5.51,37.0,71.0,58.0,No
+S1484,Female,Electronics,7.38,90.0,89.0,66.0,Yes
+S1485,Male,Business Administration,6.91,64.0,44.0,73.0,No
+S1486,Male,Business Administration,7.86,81.0,71.0,78.0,Yes
+S1487,Male,Computer Science,7.89,67.0,82.0,67.0,Yes
+S1488,Male,Electronics,5.44,55.0,59.0,57.0,No
+S1489,Male,Computer Science,5.88,49.0,64.0,55.0,No
+S1490,Male,Electronics,7.33,71.0,60.0,61.0,Yes
+S1491,Female,Computer Science,7.71,93.0,65.0,53.0,Yes
+S1492,Female,Computer Science,8.55,92.0,71.0,66.0,Yes
+S1493,Male,Electronics,6.11,65.0,61.0,73.0,No
+S1494,Female,Computer Science,8.14,81.0,84.0,88.0,Yes
+S1495,Male,Computer Science,7.15,71.0,50.0,52.0,No
+S1496,Male,Information Technology,7.81,71.0,98.0,67.0,Yes
+S1497,Male,Electronics,6.89,63.0,41.0,74.0,Yes
+S1498,Male,Computer Science,6.09,53.0,68.0,68.0,No
+S1499,Male,Business Administration,8.03,59.0,59.0,87.0,Yes
+S1500,Male,Mechanical,7.38,67.0,76.0,81.0,Yes
